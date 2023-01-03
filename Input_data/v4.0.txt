@@ -1,0 +1,1766 @@
+IP-1
+To support high-performance, cost-effective project outcomes through an early analysis of the
+interrelationships among systems.
+Beginning in pre-design and continuing throughout the design phases, identify and use opportunities to
+achieve synergies across disciplines and building systems. Use the analyses described below to inform
+the owner’s project requirements (OPR), basis of design (BOD), design documents, and construction
+documents.
+Energy-Related Systems
+Discovery: Perform a preliminary “simple box” energy modeling analysis before the completion of
+schematic design that explores how to reduce energy loads in the building and accomplish related
+sustainability goals by questioning default assumptions. Assess at least two potential strategies
+associated with the following:
+• Site conditions. Assess shading, exterior lighting, hardscape, landscaping, and adjacent site
+conditions.
+• Massing and orientation. Assess massing and orientation affect HVAC sizing, energy
+consumption, lighting, and renewable energy opportunities.
+• Basic envelope attributes. Assess insulation values, window-to-wall ratios, glazing
+characteristics, shading, and window operability.
+• Lighting levels. Assess interior surface reflectance values and lighting levels in occupied
+spaces.
+• Thermal comfort ranges. Assess thermal comfort range options.
+• Plug and process load needs. Assess reducing plug and process loads through
+programmatic solutions (e.g., equipment and purchasing policies, layout options).
+• Programmatic and operational parameters. Assess multifunctioning spaces, operating
+schedules, space allotment per person, teleworking, reduction of building area, and
+anticipated operations and maintenance.
+Implementation: Document how the above analysis informed design and building form decisions in
+the project’s OPR and BOD and the eventual design of the project, including the following, as
+applicable:
+• Building and site program;
+• Building form and geometry;
+• Building envelope and façade treatments on different orientations;
+• Elimination and/or significant downsizing of building systems (e.g., HVAC, lighting, controls, Exterior materials, interior finishes, and functional program elements); and
+• Other systems.
+AND
+Water-Related Systems
+Discovery: Perform a preliminary water budget analysis before the completion of schematic design that explores how to reduce potable water loads in the building and accomplish related sustainability goals. Assess and estimate the project’s potential nonpotable water supply sources and water demand volumes, including the following:
+• Indoor water demand. Assess flow and flush fixture design case demand volumes, calculated in accordance with WE Prerequisite Indoor Water Use Reduction.
+• Outdoor water demand. Assess landscape irrigation design case demand volume calculated in accordance with WE Credit Outdoor Water-Use Reduction.
+• Process water demand. Assess kitchen, laundry, cooling tower, and other equipment demand volumes, as applicable.
+• Supply sources. Assess all potential nonpotable water supply source volumes, such as on-site rainwater and graywater, municipally supplied nonpotable water, and HVAC equipment condensate.
+Implementation: Document how the above analysis informed building and site design decisions in the project’s OPR and BOD. Demonstrate how at least one on-site nonpotable water supply source was analyzed to reduce the burden on municipal supply or wastewater treatment systems by contributing to at least two of the water demand components listed above. Demonstrate how the analysis informed the design of the project, including the following, as applicable:
+• plumbing systems;
+• sewage conveyance and/or on-site treatment systems;
+• rainwater quantity and quality management systems;
+• landscaping, irrigation, and site elements;
+• roofing systems and/or building form and geometry; and
+• other systems.
+
+LT-1
+To avoid development on inappropriate sites. To reduce vehicle distance traveled. To enhance livability and improve human health by encouraging daily physical activity
+Locate the project within the boundary of a development certified under LEED for Neighborhood Development (Stage 2 or Stage 3 under the Pilot or 2009 rating systems, Certified Plan or Certified Project under the LEED v4 rating system).
+Projects attempting this credit are not eligible to earn points under other Location and Transportation credits.
+Table 1. Points for LEED ND location.
+Certification level
+Points BD&C
+Points BD&C (Core and Shell)
+Points BD&C (Schools)
+Points BD&C (Healthcare)
+Certified
+8
+8
+8
+5
+Silver
+10
+12
+10
+6
+Gold
+12
+16
+12
+7
+Platinum
+16
+20
+15
+9
+
+LT-2
+To avoid the development of environmentally sensitive lands and reduce the environmental impact from the location of a building on a site.
+Option 1.
+Locate the development footprint on land that has been previously developed.
+OR
+Option 2.
+Locate the development footprint on land that has been previously developed or that does not meet the following criteria for sensitive land:
+• Prime farmland. Prime farmland, unique farmland, or farmland of statewide or local importance as defined by the U.S. Code of Federal Regulations, Title 7, Volume 6, Parts 400 to 699, Section 657.5 (or local equivalent for projects outside the U.S.) and identified in a state Natural Resources Conservation Service soil survey (or local equivalent for projects outside the U.S.).
+• Floodplains. A flood hazard area shown on a legally adopted flood hazard map or otherwise legally designated by the local jurisdiction or the state. For projects in places without legally adopted flood hazard maps or legal designations, locate on a site that is entirely outside any floodplain subject to a 1% or greater chance of flooding in any given year.
+• Habitat. Land identified as habitat for the following:
+o species listed as threatened or endangered under the U.S. Endangered Species Act or the state’s endangered species act, or
+o species or ecological communities classified by NatureServe as GH (possibly extinct), G1 (critically imperiled), or G2 (imperiled), or
+o species listed as threatened or endangered specifies under local equivalent standards (for projects outside the U.S.) that are not covered by NatureServe data.
+• Water bodies. Areas on or within 100 feet (30 meters) of a water body, except for minor improvements.
+• Wetlands. Areas on or within 50 feet (15 meters) of a wetland, except for minor improvements.
+Minor improvements within the wetland and water body buffers may be undertaken to enhance appreciation of them, provided such facilities are open all building users. Only the following improvements are considered minor:
+Bicycle and pedestrian pathways no more than 12 feet wide (3.5 meters), of which no more than 8 feet (2.5 meters) may be impervious;
+• Activities to maintain or restore native natural communities and/or natural hydrology;
+• One single-story structure per 300 linear feet (90 linear meters) on average, not exceeding 500 square feet (45 square meters);
+• Grade changes necessary to ensure public access;
+• Clearings, limited to one per 300 linear feet (90 linear meters) on average, not exceeding 500 square feet (45 square meters) each;
+• Removal of the following tree types:
+o Hazardous trees, up to 75% of dead trees
+o Trees less than 6 inches (150 millimeters) diameter at breast height
+o Up to 20% of trees more than 6 inches (150 millimeters) diameter at breast height with a condition rating of 40% or higher.
+o Trees under 40% condition rating
+The condition rating must be based on an assessment by an arborist certified by the International Society of Arboriculture (ISA) using ISA standard measures, or local equivalent for projects outside the U.S.
+• Brownfield remediation activities.
+
+LT-3
+To encourage project location in areas with development constraints and promote the health of the surrounding area.
+Option 1. Historic District (1 point BD&C except Core and Shell, 2 points Core and Shell)
+Locate the project on an infill location in a historic district.
+OR
+Option 2. Priority Designation (1 point BD&C except Core and Shell, 2 points Core and Shell)
+Locate the project on one of the following:
+• a site listed by the EPA National Priorities List;
+• a Federal Empowerment Zone site;
+• a Federal Enterprise Community site;
+• a Federal Renewal Community site;
+• a Department of the Treasury Community Development Financial Institutions Fund Qualified Low-Income Community (a subset of the New Markets Tax Credit Program);
+• a site in a U.S. Department of Housing and Urban Development’s Qualified Census Tract (QCT) or Difficult Development Area (DDA); or
+• a local equivalent program administered at the national level for projects outside the U.S.
+OR
+Option 3. Brownfield Remediation (2 points BD&C except Core and Shell, 3 points Core and Shell)
+Locate on a brownfield where soil or groundwater contamination has been identified, and where the local, state, or national authority (whichever has jurisdiction) requires its remediation. Perform remediation to the satisfaction of that authority.
+
+LT-4
+To conserve land and protect farmland and wildlife habitat by encouraging development in areas with existing infrastructure. To promote walkability, and transportation efficiency and reduce vehicle distance traveled. To improve public health by encouraging daily physical activity.
+Option 1. Surrounding Density (2–3 points BD&C except Core and Shell, 2-4 points Core and Shell)
+Locate on a site whose surrounding existing density within a ¼-mile (400-meter) radius of the project boundary meets the values in Table 1. Use either the “separate residential and nonresidential densities” or the “combined density” values.
+Table 1a. Points for average density within 1/4 mile of project (IP units)
+Combined density
+Separate residential and nonresidential densities
+Points
+BD&C (except Core and Shell)
+Points BD&C (Core and Shell)
+Square feet per acre of buildable land
+Residential density (DU/acre)
+Nonresidential density (FAR)
+22,000
+7
+0.5
+2
+2
+35,000
+12
+0.8
+3
+4
+Table 1b. Points for average density within 400 meters of project (SI units)
+Combined density
+Separate residential and nonresidential densities
+Points
+BD&C (except Core
+Points BD&C
+Square meters per hectare of buildable land
+Residential density (DU/hectare)
+Nonresidential density (FAR)
+5,050
+17.5
+0.5
+2
+2
+8,035
+30
+0.8
+3
+4
+DU = dwelling unit; FAR = floor-area ratio.
+Schools only
+Physical education spaces that are part of the project site, such as playing fields and associated buildings used during sporting events only (e.g., concession stands) and playgrounds with play equipment, are excluded from the development density calculations.
+AND/OR
+Option 2. Diverse Uses (1–2 points)
+Construct or renovate a building or a space within a building such that the building’s main entrance is within a ½-mile (800-meter) walking distance of the main entrance of four to seven (1 point) or eight or more (2 points) existing and publicly available diverse uses (listed in Appendix 1).
+The following restrictions apply.
+• A use counts as only one type (e.g., a retail store may be counted only once even if it sells products in several categories).
+• No more than two uses in each use type may be counted (e.g. if five restaurants are within walking distance, only two may be counted).
+• The counted uses must represent at least three of the five categories, exclusive of the building’s primary use.
+
+LT-5
+To encourage development in locations shown to have multimodal transportation choices or otherwise reduced motor vehicle use, thereby reducing greenhouse gas emissions, air pollution, and other environmental and public health harms associated with motor vehicle use.
+Locate any functional entry of the project within a ¼-mile (400-meter) walking distance of existing or planned bus, streetcar, or rideshare stops, or within a ½-mile (800-meter) walking distance of existing or planned bus rapid transit stops, light or heavy rail stations, commuter rail stations, or commuter ferry terminals. The transit service at those stops and stations in aggregate must meet the minimums listed in Tables 1 and 2. Planned stops and stations may count if they are sited, funded, and under construction by the date of the certificate of occupancy and are complete within 24 months of that date.
+Both weekday and weekend trip minimums must be met.
+• Qualifying transit routes must have paired route service (service in opposite directions).
+• For each qualifying transit route, only trips in one direction are counted towards the threshold.
+• If a qualifying transit route has multiple stops within the required walking distance, only trips from one stop are counted towards the threshold.
+Table 1. Minimum daily transit service for projects with multiple transit types (bus, streetcar, rail, or ferry)
+Weekday trips
+Weekend trips
+Points BD&C
+(except Core and Shell)
+Points BD&C (Core and shell
+72
+40
+1
+1
+144
+108
+3
+3
+360
+216
+5
+6
+Table 2. Minimum daily transit service for projects with commuter rail or ferry service only
+Weekday trips
+Weekend trips
+Points
+24
+6
+1
+40
+8
+2
+60
+12
+3
+Projects served by two or more transit routes such that no one route provides more than 60% of the documented levels may earn one additional point, up to the maximum number of points.
+If existing transit service is temporarily rerouted outside the required distances for less than two years, the project may meet the requirements, provided the local transit agency has committed to restoring the routes with service at or above the prior level.
+
+LT-6
+To promote bicycling and transportation efficiency and reduce vehicle distance traveled. To improve public health by encouraging utilitarian and recreational physical activity.
+Bicycle Network
+Design or locate the project such that a functional entry or bicycle storage is within a 200-yard (180-meter) walking distance or bicycling distance from a bicycle network that connects to at least one of the following:
+• at least 10 diverse uses (see Appendix 1);
+• a school or employment center, if the project total floor area is 50% or more residential; or
+• a bus rapid transit stop, light or heavy rail station, commuter rail station, or ferry terminal.
+All destinations must be within a 3-mile (4800-meter) bicycling distance of the project boundary.
+Planned bicycle trails or lanes may be counted if they are fully funded by the date of the certificate of occupancy and are scheduled for completion within one year of that date.
+Bicycle Storage and Shower Rooms
+Case 1. Commercial or Institutional Projects
+Provide short-term bicycle storage for at least 2.5% of all peak visitors, but no fewer than four storage spaces per building.
+Provide long-term bicycle storage for at least 5% of all regular building occupants, but no fewer than four storage spaces per building in addition to the short-term bicycle storage spaces.
+Provide at least one on-site shower with changing facility for the first 100 regular building occupants and one additional shower for every 150 regular building occupants thereafter.
+Case 2. Residential Projects
+Provide short-term bicycle storage for at least 2.5% of all peak visitors but no fewer than four storage spaces per building.
+Provide long-term bicycle storage for at least 30% of all regular building occupants, but no less than one storage space per residential unit.
+Case 3. Mixed-Use Projects
+Meet the Case 1 and Case 2 storage requirements for the nonresidential and residential portions of the project, respectively.
+For All Projects
+Short-term bicycle storage must be within 100 feet (30 meters) walking distance of any main entrance. Long-term bicycle storage must be within 100 feet (30 meters) walking distance of any functional entry.
+Bicycle storage capacity may not be double-counted: storage that is fully allocated to the occupants of nonproject facilities cannot also serve project occupants.
+Core & Shell projects should refer to Appendix 2, Default Occupancy Counts, for occupancy count requirements and guidance.
+
+LT-7
+To minimize the environmental harms associated with parking facilities, including automobile dependence, land consumption, and rainwater runoff.
+Do not exceed the minimum local code requirements for parking capacity.
+Provide parking capacity that is a percentage reduction below the base ratios recommended by the Parking Consultants Council, as shown in the Institute of Transportation Engineers’ Transportation Planning Handbook, 3rd edition, Tables 18-2 through 18-4.
+Case 1. Baseline Location
+Projects that have not earned points under LT Credit Surrounding Density and Diverse Uses or LT Credit Access to Quality Transit must achieve a 20% reduction from the base ratios.
+Case 2. Dense and/or Transit-Served Location
+Projects earning 1 or more points under either LT Credit Surrounding Density and Diverse Uses or LT Credit Access to Quality Transit must achieve a 40% reduction from the base ratios.
+For All Projects
+The credit calculations must include all existing and new off-street parking spaces that are leased or owned by the project, including parking that is outside the project boundary but is used by the project. On-street parking in public rights-of-way is excluded from these calculations.
+For projects that use pooled parking, calculate compliance using the project’s share of the pooled parking.
+Provide preferred parking for carpools for 5% of the total parking spaces after reductions are made from the base ratios. Preferred parking is not required if no off-street parking is provided.
+Mixed-use projects should determine the percentage reduction by first aggregating the parking amount of each use (as specified by the base ratios) and then determining the percentage reduction from the aggregated parking amount.
+Do not count parking spaces for fleet and inventory vehicles unless these vehicles are regularly used by employees for commuting as well as business purposes.
+
+LT-8
+To reduce pollution by promoting alternatives to conventionally fueled automobiles.
+Designate 5% of all parking spaces used by the project as preferred parking for green vehicles. Clearly identify and enforce for sole use by green vehicles. Distribute preferred parking spaces proportionally among various parking sections (e.g. between short-term and long-term spaces).
+Green vehicles must achieve a minimum green score of 45 on the American Council for an Energy Efficient Economy (ACEEE) annual vehicle rating guide (or local equivalent for projects outside the U.S.).
+A discounted parking rate of at least 20% for green vehicles is an acceptable substitute for preferred parking spaces. The discounted rate must be publicly posted at the entrance of the parking area and permanently available to every qualifying vehicle.
+In addition to preferred parking for green vehicles, meet one of the following two options for alternative-fuel fueling stations:
+Option 1. Electric Vehicle Charging
+Install electrical vehicle supply equipment (EVSE) in 2% of all parking spaces used by the project. Clearly identify and reserve these spaces for the sole use by plug-in electric vehicles. EVSE parking spaces must be provided in addition to preferred parking spaces for green vehicles.
+The EVSE must:
+• Provide a Level 2 charging capacity (208 – 240 volts) or greater.
+• Comply with the relevant regional or local standard for electrical connectors, such as SAE Surface Vehicle Recommended Practice J1772, SAE Electric Vehicle Conductive Charge Coupler or IEC 62196 of the International Electrotechnical Commission for projects outside the U.S.
+• Be networked or internet addressable and be capable of participating in a demand-response program or time-of-use pricing to encourage off-peak charging.
+OR
+Option 2. Liquid, gas, or battery facilities
+Install liquid or gas alternative fuel fueling facilities or a battery switchingstation capable of refueling a number of vehicles per day equal to at least 2% of all parking spaces.
+
+SS-1
+To assess site conditions before design to evaluate sustainable options and inform related decisions about site design.
+Complete and document a site survey or assessment1 that includes the following information:
+• Topography. Contour mapping, unique topographic features, slope stability risks.
+• Hydrology. Flood hazard areas, delineated wetlands, lakes, streams, shorelines, rainwater collection and reuse opportunities, TR-55 initial water storage capacity of the site (or local equivalent for projects outside the U.S.).
+• Climate. Solar exposure, heat island effect potential, seasonal sun angles, prevailing winds, monthly precipitation and temperature ranges.
+• Vegetation. Primary vegetation types, greenfield area, significant tree mapping, threatened or endangered species, unique habitat, invasive plant species.
+• Soils. Natural Resources Conservation Service soils delineation, U.S. Department of Agriculture prime farmland, healthy soils, previous development, disturbed soils (local equivalent standards may be used for projects outside the U.S.).
+• Human use. Views, adjacent transportation infrastructure, adjacent properties, construction materials with existing recycle or reuse potential.
+• Human health effects. Proximity of vulnerable populations, adjacent physical activity opportunities, proximity to major sources of air pollution.
+The survey or assessment should demonstrate the relationships between the site features and topics listed above and how these features influenced the project design; give the reasons for not addressing any of those topics.
+
+SS-2.1
+To conserve existing natural areas and restore damaged areas to provide habitat and promote biodiversity.
+Preserve and protect from all development and construction activity 40% of the greenfield area on the site (if such areas exist).
+AND
+Option 1. On-Site Restoration (2 points except Healthcare, 1 point Healthcare)
+Using native or adapted vegetation, restore 30% (including the building footprint) of all portions of the site identified as previously disturbed. Projects that achieve a density of 1.5 floor-area ratio may include vegetated roof surfaces in this calculation if the plants are native or adapted, provide habitat, and promote biodiversity.
+Restore all disturbed or compacted soils that will be revegetated within the project’s development footprint to meet the following requirements2:
+• Soils (imported and in situ) must be reused for functions comparable to their original function.
+• Imported topsoils or soil blends designed to serve as topsoil may not include the following:
+o soils defined regionally by the Natural Resources Conservation Service web soil survey (or local equivalent for projects outside the U.S.) as prime farmland, unique farmland, or farmland of statewide or local importance; or
+o soils from other greenfield sites, unless those soils are a byproduct of a construction process.
+• Restored soil must meet the criteria of reference soils in categories 1–3 and meet the criteria of either category 4 or 5:
+1. organic matter;
+2. compaction;
+3. infiltration rates;
+4. soil biological function; and
+5. soil chemical characteristics.
+Project teams may exclude vegetated landscape areas that are constructed to accommodate rainwater infiltration from the vegetation and soils requirements, provided all such rainwater infiltration areas are treated consistently with SS Credit Rainwater Management.
+Schools only:
+Dedicated athletic fields that are solely for athletic uses are exempted from the soil restoration criteria. These areas may not count toward the minimum required area.
+OR
+Option 2. Financial Support (1 point)
+Provide financial support equivalent to at least $0.40 per square foot (US$4 per square meter) for the total site area (including the building footprint).
+Financial support must be provided to a nationally or locally recognized land trust or conservation organization within the same EPA Level III ecoregion or the project’s state (or within 100 miles of the project [160 kilometers] for projects outside the U.S.). For U.S. projects, the land trust must be accredited by the Land Trust Alliance.
+
+SS-3
+To create exterior open space that encourages interaction with the environment, social interaction, passive recreation, and physical activities.
+Provide outdoor space greater than or equal to 30% of the total site area (including building footprint). A minimum of 25% of that outdoor space must be vegetated (turf grass does not count as vegetation) or have overhead vegetated canopy.
+The outdoor space must be physically accessible and be one or more of the following:
+• a pedestrian-oriented paving or turf area with physical site elements that accommodate outdoor social activities;
+• a recreation-oriented paving or turf area with physical site elements that encourage physical activity;
+• a garden space with a diversity of vegetation types and species that provide opportunities for year-round visual interest;
+• a garden space dedicated to community gardens or urban food production;
+• preserved or created habitat that meets the criteria of SS Credit Site Development—Protect or Restore Habitat and also includes elements of human interaction.
+For projects that achieve a density of 1.5 floor-area ratio (FAR), and are physically accessible, extensive or intensive vegetated roofs can be used toward the minimum 25% vegetation requirement, and qualifying roof-based physically accessible paving areas can be used toward credit compliance.
+Wetlands or naturally designed ponds may count as open space if the side slope gradients average 1:4 (vertical : horizontal) or less and are vegetated.
+For projects that are part of a multitenant complex only
+Open space can be either adjacent to the building or at another location in the site master plan. The open space may be at another master plan development site as long as it is protected from development. If the open space is not adjacent to the building, provide documentation showing that the requirements have been met and the land is in a natural state or has been returned to a natural state and conserved for the life of the building.
+
+SS-4
+To reduce runoff volume and improve water quality by replicating the natural hydrology and water balance of the site, based on historical conditions and undeveloped ecosystems in the region.
+Option 1. Percentile of Rainfall Events
+Path 1. 95th Percentile (2 points except Healthcare, 1 point Healthcare)
+In a manner best replicating natural site hydrology processes, manage on site the runoff from the developed site for the 95th percentile of regional or local rainfall events using low-impact development (LID) and green infrastructure.
+Use daily rainfall data and the methodology in the U.S. Environmental Protection Agency (EPA) Technical Guidance on Implementing the Stormwater Runoff Requirements for Federal Projects under Section 438 of the Energy Independence and Security Act to determine the 95th percentile amount.
+OR
+Path 2. 98th Percentile (3 points except Healthcare, 2 points Healthcare)
+Achieve Path 1 but for the 98th percentile of regional or local rainfall events, using LID and green infrastructure.
+OR
+Path 3. Zero Lot Line projects only – 85th Percentile (3 points except Healthcare, 2 points Healthcare)
+The following requirement applies to zero lot line projects in urban areas with a minimum density of 1.5 FAR. In a manner best replicating natural site hydrology processes, manage on site the runoff from the developed site for the 85th percentile of regional or local rainfall events, using LID and green infrastructure.
+OR
+Option 2. Natural Land Cover Conditions (3 points except Healthcare, 2 points Healthcare)
+Manage on site the annual increase in runoff volume from the natural land cover condition to the postdeveloped condition.
+Projects that are part of a multitenant complex only
+The credit requirements may be met using a coordinated approach affecting the defined project site that is within the master plan boundary. Distributed techniques based on a watershed approach are then required.
+
+SS-5
+To minimize effects on microclimates and human and wildlife habitats by reducing heat islands.
+Choose one of the following options:
+Option 1. Nonroof and Roof (2 points except Healthcare, 1 point Healthcare)
+Meet the following criterion:
+Area of Nonroof Measures
+Area of High-Reflectance Roof
+Area of Vegetated Roof
+Total Site Paving Area
+Total Roof Area
+——————
++
+——————
++
+——————
+≥
++
+0.5
+0.75
+0.75
+Alternatively, an SRI and SR weighted average approach may be used to calculate compliance.
+Use any combination of the following strategies.
+Nonroof Measures
+• Use the existing plant material or install plants that provide shade over paving areas (including playgrounds) on the site within 10 years of planting. Install vegetated planters. Plants must be in place at the time of occupancy permit and cannot include artificial turf.
+• Provide shade with structures covered by energy generation systems, such as solar thermal collectors, photovoltaics, and wind turbines.
+• Provide shade with architectural devices or structures that have a three-year aged solar reflectance (SR) value of at least 0.28. If three-year aged value information is not available, use materials with an initial SR of at least 0.33 at installation,
+• Provide shade with vegetated structures.
+• Use paving materials with a three-year aged solar reflectance (SR) value of at least 0.28. If three-year aged value information is not available, use materials with an initial SR of at least 0.33 at installation.
+• Use an open-grid pavement system (at least 50% unbound).
+High-Reflectance Roof
+Use roofing materials that have an SRI equal to or greater than the values in Table 1. Meet the three-year aged SRI value. If three-year aged value information is not available, use materials that meet the initial SRI value.
+Table 1. Minimum solar reflectance index value, by roof slope
+Slope
+Initial SRI
+3-year aged SRI
+Low-sloped roof
+≤ 2:12
+82
+64
+Steep-sloped roof
+> 2:12
+39
+32
+Vegetated Roof
+Install a vegetated roof.
+OR
+Option 2. Parking under Cover (1 point)
+Place a minimum of 75% of parking spaces under cover. Any roof used to shade or cover parking must (1) have a three-year aged SRI of at least 32 (if three-year aged value information is not available, use materials with an initial SRI of at least 39 at installation), (2) be a vegetated roof, or (3) be covered by energy generation systems, such as solar thermal collectors, photovoltaics, and wind turbines.
+
+SS-6
+To increase night sky access, improve nighttime visibility, and reduce the consequences of development for wildlife and people.
+Meet uplight and light trespass requirements, using either the backlight-uplight-glare (BUG) method (Option 1) or the calculation method (Option 2). Projects may use different options for uplight and light trespass.
+Meet these requirements for all exterior luminaires located inside the project boundary (except those listed under “Exemptions”), based on the following:
+• the photometric characteristics of each luminaire when mounted in the same orientation and tilt as specified in the project design; and
+• the lighting zone of the project property (at the time construction begins). Classify the project under one lighting zone using the lighting zones definitions provided in the Illuminating Engineering Society and International Dark Sky Association (IES/IDA) Model Lighting Ordinance (MLO) User Guide.
+Additionally, meet the internally illuminated signage requirement.
+Uplight
+Option 1. BUG Rating Method
+Do not exceed the following luminaire uplight ratings, based on the specific light source installed in the luminaire, as defined in IES TM-15-11, Addendum A.
+Table 1. Maximum uplight ratings for luminaires
+MLO lighting zone
+Luminaire uplight rating
+LZ0
+U0
+LZ1
+U1
+LZ2
+U2
+LZ3
+U3
+LZ4
+U4
+OR
+Option 2. Calculation Method
+Do not exceed the following percentages of total lumens emitted above horizontal.
+Table 2. Maximum percentage of total lumens emitted above horizontal, by lighting zone
+MLO lighting zone
+Maximum allowed percentage of total luminaire lumens emitted above horizontal
+LZ0
+0%
+LZ1
+0%
+LZ2
+1.5%
+LZ3
+3%
+LZ4
+6%
+AND
+Light Trespass
+Option 1. BUG Rating Method
+Do not exceed the following luminaire backlight and glare ratings (based on the specific light source installed in the luminaire), as defined in IES TM-15-11, Addendum A, based on the mounting location and distance from the lighting boundary.
+Table 3. Maximum backlight and glare ratings
+MLO lighting zone
+Luminaire mounting
+LZ0
+LZ1
+LZ2
+LZ3
+LZ4
+Allowed backlight ratings
+> 2 mounting heights from lighting boundary
+B1
+B3
+B4
+B5
+B5
+1 to 2 mounting heights from lighting boundary and properly oriented
+B1
+B2
+B3
+B4
+B4
+0.5 to 1 mounting height to lighting boundary and properly oriented
+B0
+B1
+B2
+B3
+B3
+< 0.5 mounting height to lighting boundary and properly oriented
+B0
+B0
+B0
+B1
+B2
+Allowed glare ratings
+Building-mounted > 2 mounting heights from any lighting boundary
+G0
+G1
+G2
+G3
+G4
+Building-mounted 1–2 mounting heights from any lighting boundary
+G0
+G0
+G1
+G1
+G2
+Building-mounted 0.5 to 1 mounting heights from any lighting boundary
+G0
+G0
+G0
+G1
+G1
+Building-mounted < 0.5 mounting heights from any lighting boundary
+G0
+G0
+G0
+G0
+G1
+All other luminaires
+G0
+G1
+G2
+G3
+G4
+The lighting boundary is located at the property lines of the property, or properties, that the LEED project occupies. The lighting boundary can be modified under the following conditions:
+• When the property line abuts a public area that includes, but is not limited to, a walkway, bikeway, plaza, or parking lot, the lighting boundary may be moved to 5 feet (1.5 meters) beyond the property line.
+• When the property line abuts a public street, alley, or transit corridor, the lighting boundary may be moved to the center line of that street, alley, or corridor.
+• When there are additional properties owned by the same entity that are contiguous to the property, or properties, that the LEED project is within and have the same or higher MLO lighting zone designation as the LEED project, the lighting boundary may be expanded to include those properties.
+Orient all luminaires less than two mounting heights from the lighting boundary such that the backlight points toward the nearest lighting boundary line. Building-mounted luminaires with the backlight oriented toward the building are exempt from the backlight rating requirement.
+OR
+Option 2. Calculation Method
+Do not exceed the following vertical illuminances at the lighting boundary (use the definition of lighting boundary in Option 1). Calculation points may be no more than 5 feet (1.5 meters) apart. Vertical illuminances must be calculated on vertical planes running parallel to the lighting boundary, with the normal to each plane oriented toward the property and perpendicular to the lighting boundary, extending from grade level to 33 feet (10 meters) above the height of the highest luminaire.
+Table 4. Maximum vertical illuminance at lighting boundary, by lighting zone
+MLO lighting zone
+Vertical illuminance
+LZ0
+0.05 fc (0.5 lux)
+LZ1
+0.05 fc (0.5 lux)
+LZ2
+0.10 fc (1 lux)
+LZ3
+0.20 fc (2 lux)
+LZ4
+0.60 fc (6 lux)
+FC = footcandle.
+AND
+Internally Illuminated Exterior Signage
+Do not exceed a luminance of 200 cd/m2 (nits) during nighttime hours and 2000 cd/m2 (nits) during daytime hours.
+Exemptions from Uplight and Light Trespass Requirements
+The following exterior lighting is exempt from the requirements, provided it is controlled separately from the nonexempt lighting:
+• specialized signal, directional, and marker lighting for transportation;
+• lighting that is used solely for façade and landscape lighting in MLO lighting zones 3 and 4, and is automatically turned off from midnight until 6 a.m.;
+• lighting for theatrical purposes for stage, film, and video performances;
+• government-mandated roadway lighting;
+• hospital emergency departments, including associated helipads;
+• lighting for the national flag in MLO lighting zones 2, 3, or 4; and
+• internally illuminated signage.
+
+WE-1
+To reduce outdoor water consumption.
+Reduce outdoor water use through one of the following options. Nonvegetated surfaces, such as permeable or impermeable pavement, should be excluded from landscape area calculations. Athletic fields and playgrounds (if vegetated) and food gardens may be included or excluded at the project team’s discretion.
+Option 1. No Irrigation Required (2 points except Healthcare, 1 point Healthcare)
+Show that the landscape does not require a permanent irrigation system beyond a maximum two-year establishment period.
+OR
+Option 2. Reduced Irrigation (1-2 points except Healthcare, 1 point Healthcare)
+Reduce the project’s landscape water requirement (LWR) by at least 50% from the calculated baseline for the site’s peak watering month. Reductions must first be achieved through plant species selection and irrigation system efficiency as calculated in the Environmental Protection Agency (EPA) WaterSense Water Budget Tool.
+Additional reductions beyond 30% may be achieved using any combination of efficiency, alternative water sources, and smart scheduling technologies.
+Table 1. Points for reducing irrigation water
+Percentage reduction from baseline
+Points (except Healthcare)
+Points (Healthcare)
+50%
+1
+1
+100%
+2
+—
+
+WE-2
+To reduce indoor water consumption.
+Further reduce fixture and fitting water use from the calculated baseline in WE Prerequisite Indoor Water Use Reduction. Additional potable water savings can be earned above the prerequisite level using alternative water sources. Include fixtures and fittings necessary to meet the needs of the occupants. Some of these fittings and fixtures may be outside the tenant space (for Commercial Interiors) or project boundary (for New Construction). Points are awarded according to Table 1.
+Table 1. Points for reducing water use
+Percentage
+reduction
+Points (BD&C)
+Points
+(Schools, Retail, Hospitality, Healthcare)
+25%
+1
+1
+30%
+2
+2
+35%
+3
+3
+40%
+4
+4
+45%
+5
+5
+50%
+6
+--
+Schools, Retail, Hospitality, and Healthcare only
+Meet the percentage reduction requirements above.
+Appliance and Process Water. Install equipment within the project scope that meets the minimum requirements in Table 2, 3, 4, or 5. One point is awarded for meeting all applicable requirements in any one table. All applicable equipment listed in each table must meet the standard.
+Schools, Retail, and Healthcare projects can earn a second point for meeting the requirements of two tables.
+Table 2. Compliant commercial washing machines
+To use Table 2, the project must process at least 120,000 lbs (57 606 kg) of laundry per year.
+Washing machine
+Requirement (IP units)
+Requirement (SI units)
+On-premise, minimum capacity 2,400 lbs (1 088 kg) per 8-hour shift
+Maximum 1.8 gals per pound *
+Maximum 7 liters per 0.45 kilograms *
+* Based on equal quantities of heavy, medium, and light soil laundry.
+Table 3. Standards for commercial kitchen equipment
+To use Table 3, the project must serve at least 100 meals per day of operation. All process and appliance equipment listed in the category of kitchen equipment and present on the project must comply with the standards.
+Kitchen equipment
+Requirement (IP units)
+Requirement (SI units)
+Dishwasher
+Undercounter
+ENERGY STAR
+ENERGY STAR or performance equivalent
+Stationary, single tank, door
+ENERGY STAR
+ENERGY STAR or performance equivalent
+Single tank, conveyor
+ENERGY STAR
+ENERGY STAR or performance equivalent
+Multiple tank, conveyor
+ENERGY STAR
+ENERGY STAR or performance equivalent
+Flight machine
+ENERGY STAR
+ENERGY STAR or performance equivalent
+Food steamer
+Batch (no drain connection)
+≤ 2 gal/hour/pan including condensate cooling water
+≤ 7.5 liters/hour/pan including condensate cooling water
+Cook-to-order (with drain connection)
+≤ 5 gal/hour/pan including condensate cooling water
+≤ 19 liters/hour/pan including condensate cooling water
+Combination oven,
+Countertop or stand
+≤ 1.5 gal/hour/pan including condensate cooling water
+≤ 5.7 liters/hour/pan includin
+Roll-in
+≤ 1.5 gal/hour/pan including condensate cooling water
+≤ 5.7 liters/hour/pan including condensate cooling water
+Food waste disposer
+Disposer
+3-8 gpm, full load condition, 10 minute automatic shutoff; or 1 gpm, no-load condition
+11–30 lpm, full load condition, 10-min automatic shutoff; or 3.8 lpm, no-load condition
+Scrap collector
+Maximum 2 gpm makeup water
+Maximum 7.6 lpm makeup water
+Pulper
+Maximum 2 gpm makeup water
+Maximum 7.6 lpm makeup water
+Strainer basket
+No additional water usage
+No additional water usage
+gpm = gallons per minute
+gph = gallons per hour
+lpm = liters per minute
+lph = liters per hour
+Table 4. Compliant laboratory and medical equipment
+To use Table 4, the project must be a medical or laboratory facility.
+Lab equipment
+Requirement (IP units)
+Requirement (SI units)
+Reverse-osmosis water purifier
+75% recovery
+75% recovery
+Steam sterilizer
+For 60-inch sterilizer, 6.3 gal/U.S. tray
+For 48-inch sterilizer, 7.5 gal/U.S. tray
+For 1520-mm sterilizer, 28.5 liters/DIN tray
+For 1220-mm sterilizer, 28.35 liters/DIN tray
+Sterile process washer
+0.35 gal/U.S. tray
+1.3 liters/DIN tray
+X-ray processor, 150 mm or more in any dimension
+Film processor water recycling unit
+Digital imager, all sizes
+No water use
+Table 5. Compliant municipal steam systems
+To use Table 5, the project must be connected to a municipal or district steam system that does not allow the return of steam condensate.
+Steam system
+Standard
+Steam condensate disposal
+Cool municipally supplied steam condensate (no return) to drainage system with heat recovery system or reclaimed water
+OR
+Reclaim and use steam condensate
+100% recovery and reuse
+
+WE-3
+To conserve water used for cooling tower makeup while controlling microbes, corrosion, and scale in the condenser water system.
+For cooling towers and evaporative condensers, conduct a one-time potable water analysis, measuring at least the five control parameters listed in Table 1.
+Table 1. Maximum concentrations for parameters in condenser water
+Parameter
+Maximum level
+Ca (as CaCO3)
+1000 ppm
+Total alkalinity
+1000 ppm
+SiO2
+100 ppm
+Cl-
+250 ppm
+Conductivity
+2000 μS/cm
+ppm = parts per million
+μS/cm = micro siemens per centimeter
+Calculate the number of cooling tower cycles by dividing the maximum allowed concentration level of each parameter by the actual concentration level of each parameter found in the potable makeup water. Limit cooling tower cycles to avoid exceeding maximum values for any of these parameters.
+Table 2. Points for cooling tower cycles
+Cooling tower cycles
+Points
+Maximum number of cycles achieved without exceeding any filtration levels or affecting operation of condenser water system (up to maximum of 10 cycles)
+Achieve a minimum 10 cycles by increasing the level of treatment in condenser or make-up water
+OR
+Meet the minimum number of cycles to earn 1 point and use a minimum 20% recycled nonpotable water
+
+WE-4
+To support water management and identify opportunities for additional water savings by tracking water consumption.
+Install permanent water meters for two or more of the following water subsystems, as applicable to the project:
+• Irrigation. Meter water systems serving at least 80% of the irrigated landscaped area. Calculate the percentage of irrigated landscape area served as the total metered irrigated landscape area divided by the total irrigated landscape area. Landscape areas fully covered with xeriscaping or native vegetation that requires no routine irrigation may be excluded from the calculation.
+• Indoor plumbing fixtures and fittings. Meter water systems serving at least 80% of the indoor fixtures and fitting described in WE Prerequisite Indoor Water Use Reduction, either directly or by deducting all other measured water use from the measured total water consumption of the building and grounds.
+• Domestic hot water. Meter water use of at least 80% of the installed domestic hot water heating capacity (including both tanks and on-demand heaters).
+• Boiler with aggregate projected annual water use of 100,000 gallons (378 500 liters) or more, or boiler of more than 500,000 BtuH (150 kW). A single makeup meter may record flows for multiple boilers.
+• Reclaimed water. Meter reclaimed water, regardless of rate. A reclaimed water system with a makeup water connection must also be metered so that the true reclaimed water component can be determined.
+• Other process water. Meter at least 80% of expected daily water consumption for process end uses, such as humidification systems, dishwashers, clothes washers, pools, and other subsystems using process water.
+Healthcare Projects only
+In addition to the requirements above, install water meters in any five of the following:
+• purified water systems (reverse-osmosis, de-ionized);
+62
+Updated to reflect the July 25, 2019 LEED v4 Building Design and Construction Addenda
+• filter backwash water;
+• water use in dietary department;
+• water use in laundry;
+• water use in laboratory;
+• water use in central sterile and processing department;
+• water use in physiotherapy and hydrotherapy and treatment areas;
+• water use in surgical suite;
+• closed-looped hydronic system makeup water; and
+• cold-water makeup for domestic hot water systems.
+
+EA-1
+To further support the design, construction, and eventual operation of a project that meets the owner’s project requirements for energy, water, indoor environmental quality, and durability.
+Implement, or have in place a contract to implement, the following commissioning process activities in addition to those required under EA Prerequisite Fundamental Commissioning and Verification.
+Commissioning Authority
+• The CxA must have documented commissioning process experience on at least two building projects with a similar scope of work. The experience must extend from early design phase through at least 10 months of occupancy;
+• The CxA may be a qualified employee of the owner, an independent consultant, or a disinterested subcontractor of the design team.
+Option 1. Enhanced Systems Commissioning (3-4 points)
+Path 1: Enhanced Commissioning (3 points)
+Complete the following commissioning process (CxP) activities for mechanical, electrical, plumbing, and renewable energy systems and assemblies in accordance with ASHRAE Guideline 0–2005 and ASHRAE Guideline 1.1–2007 for HVAC&R systems, as they relate to energy, water, indoor environmental quality, and durability.
+The commissioning authority must do the following:
+• Review contractor submittals.
+• Verify inclusion of systems manual requirements in construction documents.
+• Verify inclusion of operator and occupant training requirements in construction documents.
+• Verify systems manual updates and delivery.
+• Verify operator and occupant training delivery and effectiveness.
+• Verify seasonal testing.
+• Review building operations 10 months after substantial completion.
+• Develop an on-going commissioning plan.
+Include all enhanced commissioning tasks in the OPR and BOD.
+OR
+Path 2: Enhanced and Monitoring-Based Commissioning (4 points)
+Achieve Path 1.
+AND
+Develop monitoring-based procedures and identify points to be measured and evaluated to assess performance of energy- and water-consuming systems.
+Include the procedures and measurement points in the commissioning plan. Address the following:
+• roles and responsibilities;
+• measurement requirements (meters, points, metering systems, data access);
+• the points to be tracked, with frequency and duration for trend monitoring;
+• the limits of acceptable values for tracked points and metered values (where appropriate, predictive algorithms may be used to compare ideal values with actual values);
+• the elements used to evaluate performance, including conflict between systems, out-of-sequence operation of systems components, and energy and water usage profiles;
+• an action plan for identifying and correcting operational errors and deficiencies;
+• training to prevent errors;
+• planning for repairs needed to maintain performance; and
+• the frequency of analyses in the first year of occupancy (at least quarterly).
+Update the systems manual with any modifications or new settings, and give the reason for any modifications from the original design.
+AND/OR
+Option 2. Envelope Commissioning (2 points)
+Fulfill the requirements in EA Prerequisite Fundamental Commissioning and Verification as they apply to the building’s thermal envelope in addition to mechanical and electrical systems and assemblies.
+Complete the following commissioning process (CxP) activities for the building’s thermal envelope in accordance with ASHRAE Guideline 0–2005 and the National Institute of Building Sciences (NIBS) Guideline 3–2012, Exterior Enclosure Technical Requirements for the Commissioning Process, as they relate to energy, water, indoor environmental quality, and durability.
+Commissioning authority must complete the following:
+• Review contractor submittals.
+• Verify inclusion of systems manual requirements in construction documents.
+• Verify inclusion of operator and occupant training requirements in construction documents.
+• Verify systems manual updates and delivery.
+• Verify operator and occupant training delivery and effectiveness.
+• Verify seasonal testing.
+• Review building operations 10 months after substantial completion.
+• Develop an on-going commissioning plan.
+Data Centers only
+Projects that select Option 1 must complete the following commissioning process.
+For small projects with peak cooling loads less than 2,000,000 Btu/h (600 kW), or a total computer room peak cooling load less than 600,000 Btu/h (175 kW), the CxA must perform the following activities:
+• conduct at least one commissioning verification review of the owner’s project requirements, basis of design, and design documents before mid-construction documents development;
+• back-check the review comments in all subsequent design submissions; and
+• conduct an additional full verification review at 95% completion of the design documents and basis of design.
+For projects with peak cooling loads 2,000,000 Btu/h (600 kW) or more, or a total computer room peak cooling load 600,000 Btu/h (175 kW) or more, the CxA must conduct at least three verification reviews of the basis of design:
+• one verification review of design documents before the start of design development;
+• one verification review of design documents before midconstruction documents; and
+• one final verification review of 100% complete design documents, verifying achievement of the owner’s project requirements and adjudication of previous review comments.
+
+EA-2
+To achieve increasing levels of energy performance beyond the prerequisite standard to reduce environmental and economic harms associated with excessive energy use.
+Establish an energy performance target no later than the schematic design phase. The target must be established as kBtu per square foot-year (kW per square meter-year) of source energy use.
+Choose one of the options below.
+Option 1. Whole-Building Energy Simulation (1–18 points except Schools and Healthcare, 1–16 points Schools, 1–20 points Healthcare)
+Analyze efficiency measures during the design process and account for the results in design decision making. Use energy simulation of efficiency opportunities, past energy simulation analyses for similar buildings, or published data (e.g., Advanced Energy Design Guides) from analyses for similar buildings.
+Analyze efficiency measures, focusing on load reduction and HVAC-related strategies (passive measures are acceptable) appropriate for the facility. Project potential energy savings and holistic project cost implications related to all affected systems.
+Project teams pursuing the Integrative Process credit must complete the basic energy analysis for that credit before conducting the energy simulation.
+Follow the criteria in EA Prerequisite Minimum Energy Performance to demonstrate a percentage improvement in the proposed building performance rating compared with the baseline. Points are awarded according to Table 1.
+Table 1. Points for percentage improvement in energy performance
+New Construction
+Major Renovation
+Core and Shell
+Points (except Schools, Healthcare)
+Points Healthcare
+Points Schools
+6%
+4%
+3%
+1
+3
+1
+OR
+Option 2. Prescriptive Compliance: ASHRAE Advanced Energy Design Guide (1–6 points)
+To be eligible for Option 2, projects must use Option 2 in EA Prerequisite Minimum Energy Performance.
+Implement and document compliance with the applicable recommendations and standards in Chapter 4, Design Strategies and Recommendations by Climate Zone, for the appropriate ASHRAE 50% Advanced
+Energy Design Guide and climate zone. For projects outside the U.S., consult ASHRAE/ASHRAE/IESNA Standard 90.1–2010, Appendixes B and D, to determine the appropriate climate zone.
+ASHRAE 50% Advanced Energy Design Guide for Small to Medium Office Buildings
+• Building envelope, opaque: roofs, walls, floors, slabs, doors, and continuous air barriers (1 point)
+• Building envelope, glazing: vertical fenestration (1 point)
+• Interior lighting, including daylighting and interior finishes (1 point)
+• Exterior lighting (1 point)
+• Plug loads, including equipment and controls (1 point)
+ASHRAE 50% Advanced Energy Design Guide for Medium to Large Box Retail Buildings
+• Building envelope, opaque: roofs, walls, floors, slabs, doors, and vestibules (1 point)
+• Building envelope, glazing: fenestration - all orientations (1 point)
+• Interior lighting, excluding lighting power density for sales floor (1 point)
+• Additional interior lighting for sales floor (1 point)
+• Exterior lighting (1 point)
+• Plug loads, including equipment choices and controls (1 point)
+ASHRAE 50% Advanced Energy Design Guide for K–12 School Buildings
+• Building envelope, opaque: roofs, walls, floors, slabs, and doors (1 point)
+• Building envelope, glazing: vertical fenestration (1 point)
+• Interior lighting, including daylighting and interior finishes (1 point)
+• Exterior lighting (1 point)
+• Plug loads, including equipment choices, controls, and kitchen equipment (1 point)
+ASHRAE 50% Advanced Energy Design Guide for Large Hospitals
+• Building envelope, opaque: roofs, walls, floors, slabs, doors, vestibules, and continuous air barriers (1 point)
+• Building envelope, glazing: vertical fenestration (1 point)
+• Interior lighting, including daylighting (form or nonform driven) and interior finishes (1 point)
+• Exterior lighting (1 point)
+• Plug loads, including equipment choices, controls, and kitchen equipment (1 point)
+
+EA-3
+To support energy management and identify opportunities for additional energy savings by tracking building-level and system-level energy use.
+Install advanced energy metering for the following:
+• all whole-building energy sources used by the building; and
+• any individual energy end uses that represent 10% or more of the total annual consumption of the building.
+The advanced energy metering must have the following characteristics.
+• Meters must be permanently installed, record at intervals of one hour or less, and transmit data to a remote location.
+• Electricity meters must record both consumption and demand. Whole-building electricity meters should record the power factor, if appropriate.
+• The data collection system must use a local area network, building automation system, wireless network, or comparable communication infrastructure.
+• The system must be capable of storing all meter data for at least 36 months.
+• The data must be remotely accessible.
+• All meters in the system must be capable of reporting hourly, daily, monthly, and annual energy use.
+
+EA-4
+To increase participation in demand response technologies and programs that make energy generation and distribution systems more efficient, increase grid reliability, and reduce greenhouse gas emissions.
+Design building and equipment for participation in demand response programs through load shedding or shifting. On-site electricity generation does not meet the intent of this credit.
+Case 1. Demand Response Program Available (2 points)
+• Participate in an existing demand response (DR) program and complete the following activities. Design a system with the capability for real-time, fully-automated DR based on external initiation by a DR Program Provider. Semi-automated DR may be utilized in practice.
+• Enroll in a minimum one-year DR participation amount contractual commitment with a qualified DR program provider, with the intention of multiyear renewal, for at least 10% of the estimated peak electricity demand. Peak demand is determined under EA Prerequisite Minimum Energy Performance.
+• Develop a comprehensive plan for meeting the contractual commitment during a Demand Response event.
+• Include the DR processes in the scope of work for the commissioning authority, including participation in at least one full test of the DR plan.
+Case 2. Demand Response Program Not Available (1 point)
+Provide infrastructure to take advantage of future demand response programs or dynamic, real-time pricing programs and complete the following activities.
+• Install interval recording meters with communications and ability for the building automation system to accept an external price or control signal.
+• Develop a comprehensive plan for shedding at least 10% of building estimated peak electricity demand. Peak demand is determined under EA Prerequisite Minimum Energy Performance.
+• Include the DR processes in the scope of work for the commissioning authority, including participation in at least one full test of the DR plan.
+• Contact local utility representatives to discuss participation in future DR programs.
+
+EA-5
+To reduce the environmental and economic harms associated with fossil fuel energy by increasing self-supply of renewable energy.
+Use renewable energy systems to offset building energy costs. Calculate the percentage of renewable energy with the following equation:
+% renewable energy =
+Equivalent cost of usable energy produced by the renewable energy system
+Total building annual energy cost
+Use the building’s annual energy cost, calculated in EA Prerequisite Minimum Energy Performance, if Option 1 was pursued; otherwise use the U.S. Department of Energy’s Commercial Buildings Energy Consumption Survey (CBECS) database to estimate energy use and cost.
+The use of solar gardens or community renewable energy systems is allowed if both of the following requirements are met.
+• The project owns the system or has signed a lease agreement for a period of at least 10 years.
+• The system is located with the same utility service area as the facility claiming the use.
+Credit is based on the percentage of ownership or percentage of use assigned in the lease agreement. Points are awarded according to Table 1.
+Table 1. Points for renewable energy
+Percentage renewable energy
+Points (except CS)
+Points (CS)
+1%
+1
+1
+3%
+—
+2
+5%
+2
+3
+10%
+3
+—
+
+EA-6
+To reduce ozone depletion and support early compliance with the Montreal Protocol while minimizing direct contributions to climate change.
+Option 1. No Refrigerants or Low-Impact Refrigerants (1 point)
+Do not use refrigerants, or use only refrigerants (naturally occurring or synthetic) that have an ozone depletion potential (ODP) of zero and a global warming potential (GWP) of less than 50.
+OR
+Option 2. Calculation of Refrigerant Impact (1 point)
+Select refrigerants that are used in heating, ventilating, air-conditioning, and refrigeration (HVAC&R) equipment to minimize or eliminate the emission of compounds that contribute to ozone depletion and climate change. The combination of all new and existing base building and tenant HVAC&R equipment that serve the project must comply with the following formula:
+IP units
+LCGWP
++
+LCODP
+x
+105
+≤
+100
+SI units
+LCGWP
++
+LCODP
+x
+105
+≤
+13
+Calculation definitions for LCGWP + LCODP x 105 ≤ 100
+(IP units)
+Calculation definitions for LCGWP + LCODP x 105 ≤ 13
+(SI units)
+LCODP = [ODPr x (Lr x Life +Mr) x Rc]/Life
+LCODP = [ODPr x (Lr x Life +Mr) x Rc]/Life
+LCGWP = [GWPr x (Lr x Life +Mr) x Rc]/Life
+LCGWP = [GWPr x (Lr x Life +Mr) x Rc]/Life
+LCODP: Lifecycle Ozone Depletion Potential (lb CFC 11/Ton-Year)
+LCODP: Lifecycle Ozone Depletion Potential (kg CFC 11/(kW/year))
+LCGWP: Lifecycle Direct Global Warming Potential
+LCGWP: Lifecycle Direct Global Warming Potential
+(lb CO2/Ton-Year)
+(kg CO2/kW-year)
+GWPr: Global Warming Potential of Refrigerant (0 to 12,000 lb CO2/lbr)
+GWPr: Global Warming Potential of Refrigerant (0 to 12,000 kg CO2/kg r)
+ODPr: Ozone Depletion Potential of Refrigerant (0 to 0.2 lb CFC 11/lbr)
+ODPr: Ozone Depletion Potential of Refrigerant (0 to 0.2 kg CFC 11/kg r)
+Lr: Refrigerant Leakage Rate (2.0%)
+Lr: Refrigerant Leakage Rate (2.0%)
+Mr: End-of-life Refrigerant Loss (10%)
+Mr: End-of-life Refrigerant Loss (10%)
+Rc: Refrigerant Charge (0.5 to 5.0 lbs of refrigerant per ton of gross AHRI rated cooling capacity)
+Rc: Refrigerant Charge (0.065 to 0.65 kg of refrigerant per kW of AHRI rated or Eurovent Certified cooling capacity)
+Life: Equipment Life (10 years; default based on equipment type, unless otherwise demonstrated)
+Life: Equipment Life (10 years; default based on equipment type, unless otherwise demonstrated)
+For multiple types of equipment, calculate a weighted average of all base building HVAC&R equipment, using the following formula:
+IP units
+SI units
+[ Σ ( LCGWP + LCODP x 105 ) x Qunit ]
+≤ 100
+[ Σ ( LCGWP + LCODP x 105 ) x Qunit ]
+≤ 13
+——————————————————Qtotal
+——————————————————
+Qtotal
+Calculation definitions for [ Σ (LCGWP + LCODP x 105) x Qunit ] / Qtotal ≤ 100
+(IP units)
+Calculation definitions for [ Σ (LCGWP + LCODP x 105) x Qunit ] / Qtotal ≤ 13
+(SI units)
+Qunit = Gross AHRI rated cooling capacity of an individual HVAC or refrigeration unit (Tons)
+Qunit = Eurovent Certified cooling capacity of an individual HVAC or refrigeration unit (kW)
+Qtotal = Total gross AHRI rated cooling capacity of all HVAC or refrigeration
+Qtotal = Total Eurovent Certified cooling capacity of all HVAC or refrigeration (kW)
+
+EA-7
+To encourage the reduction of greenhouse gas emissions through the use of grid-source, renewable energy technologies and carbon mitigation projects.
+Engage in a contract for qualified resources that have come online since January 1, 2005, for a minimum of five years, to be delivered at least annually. The contract must specify the provision of at least 50% or 100% of the project’s energy from green power, carbon offsets, or renewable energy certificates (RECs).
+Green power and RECs must be Green-e Energy certified or the equivalent. RECs can only be used to mitigate the effects of Scope 2, electricity use.
+Carbon offsets may be used to mitigate Scope 1 or Scope 2 emissions on a metric ton of carbon dioxide–equivalent basis and must be Green-e Climate certified, or the equivalent.
+For U.S. projects, the offsets must be from greenhouse gas emissions reduction projects within the U.S.
+Determine the percentage of green power or offsets based on the quantity of energy consumed, not the cost. Points are awarded according to Table 1.
+Table 1. Points for energy from green power or carbon offsets
+Percentage of total energy addressed by green power, RECs and/or offsets
+Points
+50%
+1
+100%
+2
+Use the project’s annual energy consumption, calculated in EA Prerequisite Minimum Energy Performance, if Option 1 was pursued; otherwise use the U.S. Department of Energy’s Commercial Buildings Energy Consumption Survey (CBECS) database to estimate energy use.
+
+MR-1
+To encourage adaptive reuse and optimize the environmental performance of products and materials.
+Demonstrate reduced environmental effects during initial project decision-making by reusing existing building resources or demonstrating a reduction in materials use through life-cycle assessment. Achieve one of the following options.
+Option 1. Historic Building Reuse (5 points BD&C, 6 points Core and Shell)
+Maintain the existing building structure, envelope, and interior nonstructural elements of a historic building or contributing building in a historic district. To qualify, the building or historic district must be listed or eligible for listing in the local, state, or national register of historic places. Do not demolish any part of a historic building or contributing building in a historic district unless it is deemed structurally unsound or hazardous. For buildings listed locally, approval of any demolition must be granted by the local historic preservation review board. For buildings listed in a state register or the U.S. National Register of Historic Places (or local equivalent for projects outside the U.S.), approval must appear in a programmatic agreement with the state historic preservation office or National Park Service (or local equivalent for projects outside the U.S.).
+Any alteration (preservation, restoration, or rehabilitation) of a historic building or a contributing building in a historic district on the project site must be done in accordance with local or national standards for rehabilitation, whichever are applicable. If building is not subject to historic review, include on the project team a preservation professional who meets U.S. federal qualifications for historic architects (or local equivalent for projects outside the U.S.); the preservation professional must confirm conformance to the Secretary of Interior’s Standards for the Treatment of Historic Properties (or local equivalent for projects outside the U.S.).
+OR
+Option 2. Renovation of Abandoned or Blighted Building (5 points BD&C, 6 points Core and Shell)
+Maintain at least 50%, by surface area, of the existing building structure, enclosure, and interior structural elements for buildings that meet local criteria of abandoned or are considered blight. The building must be renovated to a state of productive occupancy. Up to 25% of the building surface area may be excluded from credit calculation because of deterioration or damage.
+OR
+Option 3. Building and Material Reuse (2–4 points BD&C, 2-5 points Core and Shell)
+Reuse or salvage building materials from off site or on site as a percentage of the surface area, as listed in Table 1. Include structural elements (e.g., floors, roof decking), enclosure materials (e.g., skin, framing), and permanently installed interior elements (e.g., walls, doors, floor coverings, ceiling systems). Exclude from the calculation window assemblies and any hazardous materials that are remediated as a part of the project.
+Materials contributing toward this credit may not contribute toward MR Credit Material Disclosure and Optimization.
+Table 1. Points for reuse of building materials
+Percentage of completed project surface area reused
+Points BD&C
+Points BD&C (Core and Shell)
+25%
+2
+2
+50%
+3
+3
+75%
+4
+5
+OR
+Option 4. Whole-Building Life-Cycle Assessment (3 points)
+For new construction (buildings or portions of buildings), conduct a life-cycle assessment of the project’s structure and enclosure that demonstrates a minimum of 10% reduction, compared with a baseline building, in at least three of the six impact categories listed below, one of which must be global warming potential. No impact category assessed as part of the life-cycle assessment may increase by more than 5% compared with the baseline building.
+The baseline and proposed buildings must be of comparable size, function, orientation, and operating energy performance as defined in EA Prerequisite Minimum Energy Performance. The service life of the baseline and proposed buildings must be the same and at least 60 years to fully account for maintenance and replacement. Use the same life-cycle assessment software tools and data sets to evaluate both the baseline building and the proposed building, and report all listed impact categories. Data sets must be compliant with ISO 14044.
+Select at least three of the following impact categories for reduction:
+• global warming potential (greenhouse gases), in kg CO2e;
+• depletion of the stratospheric ozone layer, in kg CFC-11;
+• acidification of land and water sources, in moles H+ or kg SO2;
+• eutrophication, in kg nitrogen or kg phosphate;
+• formation of tropospheric ozone, in kg NOx, kg O3 eq, or kg ethene; and
+• depletion of nonrenewable energy resources, in MJ.
+
+MR-2.1
+To encourage the use of products and materials for which life-cycle information is available and that have environmentally, economically, and socially preferable life-cycle impacts. To reward project teams for selecting products from manufacturers who have verified improved environmental life-cycle impacts.
+Achieve one or more of the options below, for a maximum of 2 points.
+Option 1. Environmental Product Declaration (EPD) (1 point)
+Use at least 20 different permanently installed products sourced from at least five different manufacturers that meet one of the disclosure criteria below.
+• Product-specific declaration.
+o Products with a publicly available, critically reviewed life-cycle assessment conforming to ISO 14044 that have at least a cradle to gate scope are valued as one quarter (1/4) of a product for the purposes of credit achievement calculation.
+• Environmental Product Declarations which conform to ISO 14025 and EN 15804 or ISO 21930 and have at least a cradle to gate scope.
+o Industry-wide (generic) EPD -- Products with third-party certification (Type III), including external verification, in which the manufacturer is explicitly recognized as a participant by the program operator are valued as one half (1/2) of a product for purposes of credit achievement calculation.
+o Product-specific Type III EPD -- Products with third-party certification (Type III), including external verification in which the manufacturer is explicitly recognized as the participant by the program operator are valued as one whole product for purposes of credit achievement calculation.
+• USGBC approved program – Products that comply with other USGBC approved environmental product declaration frameworks.
+Option 2. Multi-Attribute Optimization (1 point)
+Use products that comply with one of the criteria below for 50%, by cost, of the total value of permanently installed products in the project. Products will be valued as below.
+• Third party certified products that demonstrate impact reduction below industry average in at least
+three of the following categories are valued at 100% of their cost for credit achievement calculations.
+o global warming potential (greenhouse gases), in CO2e;
+o depletion of the stratospheric ozone layer, in kg CFC-11;
+o acidification of land and water sources, in moles H+ or kg SO2;
+o eutrophication, in kg nitrogen or kg phosphate;
+o formation of tropospheric ozone, in kg NOx, kg O3 eq, or kg ethene; and
+depletion of nonrenewable energy resources, in MJ.
+• USGBC approved program -- Products that comply with other USGBC approved multi-attribute frameworks.
+For credit achievement calculation, products sourced (extracted, manufactured, purchased) within 100 miles (160 km) of the project site are valued at 200% of their base contributing cost.
+Structure and enclosure materials may not constitute more than 30% of the value of compliant building products. Projects with significant amounts of structural and enclosure materials may exceed the 30% limit by calculating an alternative structure and enclosure limit (See Equation 3 under Further Explanation).
+
+MR-2.2
+To encourage the use of products and materials for which life cycle information is available and that have environmentally, economically, and socially preferable life cycle impacts. To reward project teams for selecting products verified to have been extracted or sourced in a responsible manner.
+Option 1. Raw Material Source and Extraction Reporting (1 point)
+Use at least 20 different permanently installed products from at least five different manufacturers that have publicly released a report from their raw material suppliers which include raw material supplier extraction locations, a commitment to long-term ecologically responsible land use, a commitment to reducing environmental harms from extraction and/or manufacturing processes, and a commitment to meeting applicable standards or programs voluntarily that address responsible sourcing criteria
+• Products sourced from manufacturers with self-declared reports are valued as one half (1/2) of a product for credit achievement.
+• Third-party verified corporate sustainability reports (CSR) which include environmental impacts of extraction operations and activities associated with the manufacturer’s product and the product’s supply chain, are valued as one whole product for credit achievement calculation. Acceptable CSR frameworks include the following:
+o Global Reporting Initiative (GRI) Sustainability Report
+o Organisation for Economic Co-operation and Develoment (OECD) Guidelines for Multinational Enterprises
+o U.N. Global Compact: Communication of Progress
+o ISO 26000: 2010 Guidance on Social Responsibility
+o USGBC approved program: Other USGBC approved programs meeting the CSR criteria.
+Option 2. Leadership Extraction Practices (1 point)
+Use products that meet at least one of the responsible extraction criteria below for at least 25%, by cost, of the total value of permanently installed building products in the project.
+• Extended producer responsibility. Products purchased from a manufacturer (producer) that participates in an extended producer responsibility program or is directly responsible for extended
+producer responsibility. Products meeting extended producer responsibility criteria are valued at 50% of their cost for the purposes of credit achievement calculation.
+• Bio-based materials. Bio-based products must meet the Sustainable Agriculture Network’s Sustainable Agriculture Standard. Bio-based raw materials must be tested using ASTM Test Method D6866 and be legally harvested, as defined by the exporting and receiving country. Exclude hide products, such as leather and other animal skin material. Products meeting bio-based materials criteria are valued at 100% of their cost for the purposes of credit achievement calculation.
+• Wood products. Wood products must be certified by the Forest Stewardship Council or USGBC-approved equivalent. Products meeting wood products criteria are valued at 100% of their cost for the purposes of credit achievement calculation.
+• Materials reuse. Reuse includes salvaged, refurbished, or reused products. Products meeting materials reuse criteria are valued at 100% of their cost for the purposes of credit achievement calculation.
+• Recycled content. Recycled content is the sum of postconsumer recycled content plus one-half the preconsumer recycled content, based on cost. Products meeting recycled content criteria are valued at 100% of their cost for the purposes of credit achievement calculation
+• USGBC approved program. Other USGBC approved programs meeting leadership extraction criteria.
+For credit achievement calculation, products sourced (extracted, manufactured and purchased) within 100 miles (160 km) of the project site are valued at 200% of their base contributing cost. For credit achievement calculation, the base contributing cost of individual products compliant with multiple responsible extraction criteria is not permitted to exceed 100% its total actual cost (before regional multipliers) and double counting of single product components compliant with multiple responsible extraction criteria is not permitted and in no case is a product permitted to contribute more than 200% of its total actual cost.
+Structure and enclosure materials may not constitute more than 30% of the value of compliant building products. Projects with significant amounts of structural and enclosure materials may exceed the 30% limit by calculating an alternative structure and enclosure limit (See Equation 3 under Further Explanation).
+
+MR-2.3
+To encourage the use of products and materials for which life-cycle information is available and that have environmentally, economically, and socially preferable life-cycle impacts. To reward project teams for selecting products for which the chemical ingredients in the product are inventoried using an accepted methodology and for selecting products verified to minimize the use and generation of harmful substances. To reward raw material manufacturers who produce products verified to have improved life-cycle impacts.
+Option 1. Material Ingredient Reporting (1 point)
+Use at least 20 different permanently installed products from at least five different manufacturers that use any of the following programs to demonstrate the chemical inventory of the product to at least 0.1% (1000 ppm).
+• Manufacturer Inventory. The manufacturer has published complete content inventory for the product following these guidelines:
+o A publicly available inventory of all ingredients identified by name and Chemical Abstract Service Registration Number (CASRN) and/or European Community Number (EC Number).
+o Materials defined as trade secret or intellectual property may withhold the name and/or CASRN/EC Number but must disclose role, amount and hazard screen using either:
+ GreenScreen benchmark, as defined in GreenScreen v1.2
+ The Globally Harmonized System of Classification and Labeling of Chemicals rev.6 (2015) (GHS)
+• The hazard screen must be applied to each trade secret ingredient and the inventory lists the hazard category for each of the health hazards included in Part 3 of GHS (e.g. “GHS Category 2 Carcinogen”).
+• Identify in the inventory all hazard classes for which a classification cannot be made because there are insufficient data for a particular endpoint(s).
+• Health Product Declaration. The end use product has a published, complete Health Product Declaration with full disclosure of known hazards in compliance with the Health Product Declaration open Standard.
+Cradle to Cradle. The end use product has been certified at the Cradle to Cradle v2 Basic level or Cradle to Cradle v3 Bronze level.
+• Declare. The Declare product label must indicate that all ingredients have been evaluated and disclosed down to 1000 ppm.
+• ANSI/BIFMA e3 Furniture Sustainability Standard. The documentation from the assessor or scorecard from BIFMA must demonstrate the product earned at least 3 points under 7.5.1.3 Advanced Level in e3-2014 or 3 points under 7.4.1.3 Advanced Level in e3-2012.
+• Cradle to Cradle Material Health Certificate. The product has been certified at the Bronze level or higher and at least 90% of materials are assessed by weight.
+• ProductLens Certification
+• Facts – NSF/ANSI 336: Sustainability Assessment for Commercial Furnishings Fabric at any certification level.
+• USGBC approved program. Other USGBC approved programs meeting the material ingredient reporting criteria.
+AND/OR
+Option 2: Material Ingredient Optimization (1 point)
+Use products that document their material ingredient optimization using the paths below for at least 25%, by cost, of the total value of permanently installed products in the project.
+• GreenScreen v1.2 Benchmark. Products that have fully inventoried chemical ingredients to 100 ppm that have no Benchmark 1 hazards:
+o If any ingredients are assessed with the GreenScreen List Translator, value these products at 100% of cost.
+o If all ingredients are have undergone a full GreenScreen Assessment, value these products at 150% of cost.
+• Cradle to Cradle Certified. End use products are certified Cradle to Cradle. Products will be valued as follows:
+o Cradle to Cradle v2 Gold: 100% of cost
+o Cradle to Cradle v2 Platinum: 150% of cost
+o Cradle to Cradle v3 Silver: 100% of cost
+o Cradle to Cradle v3 Gold or Platinum: 150% of cost
+International Alternative Compliance Path – REACH Optimization. End use products and materials have fully inventoried chemical ingredients to 100 ppm and assess each substance against the Authorization List – Annex XIV, the Restriction list – Annex XVII and the SVHC candidate list, (the version in effect June 2013,) proving that no such substance is included in the product. If the product contains no ingredients listed on the REACH Authorization, Restriction, and Candidate list, value at 100% of cost.
+• USGBC approved program. Products that comply with USGGBC approved building product optimization criteria.
+AND/OR
+Option 3: Product Manufacturer Supply Chain Optimization (1 point)
+Use building products for at least 25%, by cost, of the total value of permanently installed products in the project that:
+o Are sourced from product manufacturers who engage in validated and robust safety, health, hazard, and risk programs which at a minimum document at least 99% (by weight) of the ingredients used to make the building product or building material, and
+o Are sourced from product manufacturers with independent third party verification of their supply chain that at a minimum verifies:
+Processes are in place to communicate and transparently prioritize chemical ingredients along the supply chain according to available hazard, exposure and use information to identify those that require more detailed evaluation
+ Processes are in place to identify, document, and communicate information on health, safety and environmental characteristics of chemical ingredients
+ Processes are in place to implement measures to manage the health, safety and environmental hazard and risk of chemical ingredients
+ Processes are in place to optimize health, safety and environmental impacts when designing and improving chemical ingredients
+ Processes are in place to communicate, receive and evaluate chemical ingredient safety and stewardship information along the supply chain
+ Safety and stewardship information about the chemical ingredients is publicly available from all points along the supply chain
+Products meeting Option 3 criteria are valued at 100% of their cost for the purposes of credit achievement calculation.
+For credit achievement calculation of options 2 and 3, products sourced (extracted, manufactured, purchased) within 100 miles (160 km) of the project site are valued at 200% of their base contributing cost. For credit achievement calculation, the value of individual products compliant with either option 2 or 3 can be combined to reach the 25% threshold but products compliant with both option 2 and 3 may only be counted once.
+Structure and enclosure materials may not constitute more than 30% of the value of compliant building products. Projects with significant amounts of structural and enclosure materials may exceed the 30% limit by calculating an alternative structure and enclosure limit (See Equation 3 under Further Explanation).
+
+MR-3
+To reduce construction and demolition waste disposed of in landfills and incineration facilities by recovering, reusing, and recycling materials.
+Recycle and/or salvage nonhazardous construction and demolition materials. Calculations can be by weight or volume but must be consistent throughout.
+Exclude excavated soil, land-clearing debris from calculations. Include materials destined for alternative daily cover (ADC) in the calculations as waste (not diversion). Include wood waste converted to fuel (biofuel) in the calculations; other types of waste-to-energy are not considered diversion for this credit.
+However, for projects that cannot meet credit requirements using reuse and recycling methods, waste-to-energy systems may be considered waste diversion if the European Commission Waste Framework Directive 2008/98/EC and Waste Incineration Directive 2000/76/EC are followed and Waste to Energy facilities meet applicable European Committee for Standardization (CEN) EN 303 standards.
+Option 1. Diversion (1–2 points)
+Path 1. Divert 50% and Three Material Streams (1 point)
+Divert at least 50% of the total construction and demolition material; diverted materials must include at least three material streams.
+OR
+Path 2. Divert 75% and Four Material Streams (2 points)
+Divert at least 75% of the total construction and demolition material; diverted materials must include at least four material streams.
+OR
+Option 2. Reduction of Total Waste Material (2 points)
+Do not generate more than 2.5 pounds of construction waste per square foot (12.2 kilograms of waste per square meter) of the building’s floor area.
+
+EQ-1
+To promote occupants’ comfort, well-being, and productivity by improving indoor air quality.
+Option 1. Enhanced IAQ Strategies (1 point)
+Comply with the following requirements, as applicable.
+Mechanically ventilated spaces:
+A. entryway systems;
+B. interior cross-contamination prevention; and
+C. filtration.
+Naturally ventilated spaces:
+A. entryway systems; and
+D. natural ventilation design calculations.
+Mixed-mode systems:
+A. entryway systems;
+B. interior cross-contamination prevention;
+C. filtration;
+D. natural ventilation design calculations; and
+E. mixed-mode design calculations.
+A. Entryway Systems
+Install permanent entryway systems at least 10 feet (3 meters) long in the primary direction of travel to capture dirt and particulates entering the building at regularly used exterior entrances. Acceptable entryway systems include permanently installed grates, grilles, slotted systems that allow for cleaning underneath, rollout mats, and any other materials manufactured as entryway systems with equivalent or better performance. Maintain all on a weekly basis.
+Warehouses & Distribution Centers only
+Entryway systems are not required at doors leading from the exterior to the loading dock or garage but must be installed between these spaces and adjacent office areas.
+B. Interior Cross-Contamination Prevention
+Sufficiently exhaust each space where hazardous gases or chemicals may be present or used (e.g., garages, housekeeping and laundry areas, copying and printing rooms), using the exhaust rates determined in EQ Prerequisite Minimum Indoor Air Quality Performance or a minimum of 0.50 cfm per square foot (2.54 l/s per square meter), to create negative pressure with respect to adjacent spaces when the doors to the room are closed. For each of these spaces, provide self-closing doors and deck-to-deck partitions or a hard-lid ceiling.
+C. Filtration
+Each ventilation system that supplies outdoor air to occupied spaces must have particle filters or air-cleaning devices that meet one of the following filtration media requirements:
+• minimum efficiency reporting value (MERV) of 13 or higher, in accordance with ASHRAE Standard 52.2–2007; or
+• Class F7 or higher as defined by CEN Standard EN 779–2002, Particulate Air Filters for General Ventilation, Determination of the Filtration Performance.
+Replace all air filtration media after completion of construction and before occupancy.
+D. Natural Ventilation Design Calculations
+Demonstrate that the system design for occupied spaces employs the appropriate strategies in Chartered Institution of Building Services Engineers (CIBSE) Applications Manual AM10, March 2005, Natural Ventilation in Non-Domestic Buildings, Section 2.4.
+E. Mixed-Mode Design Calculations
+Demonstrate that the system design for occupied spaces complies with CIBSE Applications Manual 13–2000, Mixed Mode Ventilation.
+Option 2. Additional Enhanced IAQ Strategies (1 point)
+Comply with the following requirements, as applicable.
+Mechanically ventilated spaces (select one):
+A. exterior contamination prevention;
+B. increased ventilation;
+C. carbon dioxide monitoring; or
+D. additional source control and monitoring.
+Naturally ventilated spaces (select one):
+A. exterior contamination prevention;
+D. additional source control and monitoring; or
+E. natural ventilation room by room calculations.
+Mixed-mode systems (select one):
+A. exterior contamination prevention;
+B. increased ventilation;
+D. additional source control and monitoring; or
+E. natural ventilation room-by-room calculations.
+A. Exterior Contamination Prevention
+Design the project to minimize and control the entry of pollutants into the building. Ensure through the results of computational fluid dynamics modeling, Gaussian dispersion analyses, wind tunnel
+modeling, or tracer gas modeling that outdoor air contaminant concentrations at outdoor air intakes are below the thresholds listed in Table 1 (or local equivalent for projects outside the U.S., whichever is more stringent).
+Table 1. Maximum concentrations of pollutants at outdoor air intakes
+Pollutants
+Maximum concentration
+Standard
+Those regulated by National Ambient Air Quality Standards (NAAQS)
+Allowable annual average
+OR
+8-hour or 24-hour average where an annual standard does not exist
+OR
+Rolling 3-month average
+National Ambient Air Quality Standards (NAAQS)
+B. Increased Ventilation
+Increase breathing zone outdoor air ventilation rates to all occupied spaces by at least 30% above the minimum rates as determined in EQ Prerequisite Minimum Indoor Air Quality Performance.
+C. Carbon Dioxide Monitoring
+Monitor CO2 concentrations within all densely occupied spaces. CO2 monitors must be between 3 and 6 feet (900 and 1 800 millimeters) above the floor. CO2 monitors must have an audible or visual indicator or alert the building automation system if the sensed CO2 concentration exceeds the setpoint by more than 10%. Calculate appropriate CO2 setpoints using methods in ASHRAE 62.1–2010, Appendix C.
+D. Additional Source Control and Monitoring
+For spaces where air contaminants are likely, evaluate potential sources of additional air contaminants besides CO2. Develop and implement a materials-handling plan to reduce the likelihood of contaminant release. Install monitoring systems with sensors designed to detect the specific contaminants. An alarm must indicate any unusual or unsafe conditions.
+E. Natural Ventilation Room-by-Room Calculations
+Follow CIBSE AM10, Section 4, Design Calculations, to predict that room-by-room airflows will provide effective natural ventilation.
+
+EQ-2
+To reduce concentrations of chemical contaminants that can damage air quality, human health, productivity, and the environment.
+This credit includes requirements for product manufacturing as well as project teams. It covers volatile organic compound (VOC) emissions in the indoor air and the VOC content of materials, as well as the testing methods by which indoor VOC emissions are determined. Different materials must meet different requirements to be considered compliant for this credit. The building interior and exterior are organized in seven categories, each with different thresholds of compliance. The building interior is defined as everything within the waterproofing membrane. The building exterior is defined as everything outside and inclusive of the primary and secondary weatherproofing system, such as waterproofing membranes and air- and water-resistive barrier materials.
+Option 1. Product Category Calculations
+Achieve the threshold level of compliance with emissions and content standards for the number of product categories listed in Table 2.
+Table 1. Thresholds of compliance with emissions and content standards for 7 categories of materials
+Category
+Threshold
+Emissions and content requirements
+Interior paints and coatings applied on site
+At least 90%, by volume, for emissions; 100% for VOC content
+• General Emissions Evaluation for paints and coatings applied to walls, floors, and ceilings
+• VOC content requirements for wet applied products
+Interior adhesives and sealants applied on site (including flooring adhesive)
+At least 90%, by volume, for emissions; 100% for VOC content
+• General Emissions Evaluation
+• VOC content requirements for wet applied products
+Flooring
+100%
+General Emissions Evaluation
+Composite wood
+100% not covered by other categories
+Composite Wood Evaluation
+Ceilings, walls, thermal, and acoustic insulation
+100%
+• General Emissions Evaluation
+• Healthcare, Schools only Additional insulation requirements
+Furniture (include in calculations if part of scope of work)
+At least 90%, by cost
+Furniture Evaluation
+Healthcare and Schools Projects only: Exterior applied products
+At least 90%, by volume
+Exterior Applied Products
+Table 2. Points for number of compliant categories of products
+Compliant categories
+Points
+New Construction, Core Shell, Retail, Data Centers, Warehouse and Distribution Centers, Hospitality projects without furniture
+2
+1
+4
+2
+5
+3
+New Construction, Core Shell, Retail, Data Centers, Warehouse and Distribution Centers, Hospitality projects with furniture
+3
+1
+5
+2
+6
+3
+Schools, Healthcare without furniture
+3
+1
+5
+2
+6
+3
+Schools, Healthcare with furniture
+4
+1
+6
+2
+7
+3
+Option 2. Budget Calculation Method
+If some products in a category do not meet the criteria, project teams may use the budget calculation method (Table 3).
+Table 3. Points for percentage compliance, under budget calculation method
+Percentage of total
+Points
+≥ 50% and < 70%
+1
+≥ 70% and < 90%
+2
+≥ 90%
+3
+The budget method organizes the building interior into six assemblies:
+• flooring;
+• ceilings;
+• walls;
+• thermal and acoustic insulation;
+• furniture; and
+• Healthcare, Schools only: exterior applied products.
+Include furniture in the calculations if it is part of the scope of work. Walls, ceilings, and flooring are defined as building interior products; each layer of the assembly, including paints, coatings, adhesives, and sealants, must be evaluated for compliance. Insulation is tracked separately.
+Determine the total percentage of compliant materials according to Equation 1.
+Equation 1. Total percentage compliance
+Total % compliant for projects without furniture =
+(% compliant walls + % compliant ceilings + % compliant flooring + % compliant insulation)
+4
+Total % compliant for projects with furniture =
+(% compliant walls + % compliant ceilings + % compliant flooring + % compliant insulation) + (% compliant furniture)
+5
+Equation 2. System percentage compliant
+Flooring, walls, ceilings, insulation % compliant =
+(compliant surface area of layer 1 + compliant surface area of layer 2 + compliant surface area of layer 3 + …)
+total surface area of layer 1 + total surface area of layer 2 + total surface area of layer 3 + …)
+X 100
+Equation 3. Furniture systems compliant, using ANSI/BIFMA evaluation
+% compliant for furniture =
+0.5 x cost compliant with §7.6.1 of ANSI/BIFMA e3-2011 + cost compliant with §7.6.2 of ANSI/BIFMA e3-2011
+total furniture cost
+X 100
+Calculate surface area of assembly layers based on the manufacturer’s documentation for application.
+If 90% of an assembly meets the criteria, the system counts as 100% compliant. If less than 50% of an assembly meets the criteria, the assembly counts as 0% compliant.
+Manufacturers’ claims. Both first-party and third-party statements of product compliance must follow the guidelines in CDPH SM V1.1–2010, Section 8. Organizations that certify manufacturers’ claims must be accredited under ISO Guide 65.
+Laboratory requirements. Laboratories that conduct the tests specified in this credit must be accredited under ISO/IEC 17025 for the test methods they use.
+Emissions and Content Requirements
+To demonstrate compliance, a product or layer must meet all of the following requirements, as applicable.
+Inherently nonemitting sources. Products that are inherently nonemitting sources of VOCs (stone, ceramic, powder-coated metals, plated or anodized metal, glass, concrete, clay brick, and unfinished or untreated solid wood) are considered fully compliant without any VOC emissions testing if they do not include integral organic-based surface coatings, binders, or sealants.
+General emissions evaluation. Building products must be tested and determined compliant in accordance with California Department of Public Health (CDPH) Standard Method v1.1–2010, using the applicable exposure scenario. The default scenario is the private office scenario. The manufacturer’s or third-party certification must state the exposure scenario used to determine compliance. Claims of compliance for wet-applied products must state the amount applied in mass per surface area.
+Manufacturers’ claims of compliance with the above requirements must also state the range of total VOCs after 14 days (336 hours), measured as specified in the CDPH Standard Method v1.1:
+• 0.5 mg/m3 or less;
+• between 0.5 and 5.0 mg/m3; or
+• 5.0 mg/m3 or more.
+Projects outside the U.S. may use products tested and deemed compliant in accordance with either (1) the CDPH standard method (2010) or (2) the German AgBB Testing and Evaluation Scheme (2010). Test products either with (1) the CDPH Standard Method (2010), (2) the German AgBB Testing and Evaluation Scheme (2010), (3) ISO 16000-3: 2010, ISO 16000-6: 2011, ISO 16000-9: 2006, ISO 16000-11:2006 either in conjunction with AgBB, or with French legislation on VOC emission class labeling, or (4) the DIBt testing method (2010). If the applied testing method does not specify testing details for a product group for which the CDPH standard method does provide details, use the specifications in the CDPH standard method. U.S. projects must follow the CDPH standard method.
+Additional VOC content requirements for wet-applied products. In addition to meeting the general requirements for VOC emissions (above), on-site wet-applied products must not contain excessive levels of VOCs, for the health of the installers and other tradesworkers who are exposed to these products. To demonstrate compliance, a product or layer must meet the following requirements, as applicable. Disclosure of VOC content must be made by the manufacturer. Any testing must follow the test method specified in the applicable regulation.
+• All paints and coatings wet-applied on site must meet the applicable VOC limits of the California Air Resources Board (CARB) 2007, Suggested Control Measure (SCM) for Architectural Coatings, or the South Coast Air Quality Management District (SCAQMD) Rule 1113, effective June 3, 2011.
+• All adhesives and sealants wet-applied on site must meet the applicable chemical content requirements of SCAQMD Rule 1168, July 1, 2005, Adhesive and Sealant Applications, as analyzed by the methods specified in Rule 1168. The provisions of SCAQMD Rule 1168 do not apply to adhesives and sealants subject to state or federal consumer product VOC regulations.
+• For projects outside the U.S., all paints, coatings, adhesives, and sealants wet-applied on site must either meet the technical requirements of the above regulations, or comply with applicable national VOC control regulations, such as the European Decopaint Directive (2004/42/EC), the Canadian VOC Concentration Limits for Architectural Coatings, or the Hong Kong Air Pollution Control (VOC) Regulation.
+• If the applicable regulation requires subtraction of exempt compounds, any content of intentionally added exempt compounds larger than 1% weight by mass (total exempt compounds) must be disclosed.
+• If a product cannot reasonably be tested as specified above, testing of VOC content must comply with ASTM D2369-10; ISO 11890, part 1; ASTM D6886-03; or ISO 11890-2.
+• For projects in North America, methylene chloride and perchloroethylene may not be intentionally added in paints, coatings, adhesives, or sealants.
+Composite Wood Evaluation. Composite wood, as defined by the California Air Resources Board, Airborne Toxic Measure to Reduce Formaldehyde Emissions from Composite Wood Products Regulation, must be documented to have low formaldehyde emissions that meet the California Air Resources Board ATCM for formaldehyde requirements for ultra-low-emitting formaldehyde (ULEF) resins or no added formaldehyde resins.
+Salvaged and reused architectural millwork more than one year old at the time of occupancy is considered compliant, provided it meets the requirements for any site-applied paints, coatings, adhesives, and sealants.
+Furniture evaluation. New furniture and furnishing items must be tested in accordance with ANSI/BIFMA Standard Method M7.1–2011. Comply with ANSI/BIFMA e3-2011 Furniture Sustainability Standard,
+Sections 7.6.1 (for half credit, by cost) OR 7.6.2 (for full credit, by cost), using either the concentration modeling approach or the emissions factor approach. Model the test results using the open plan, private office, or seating scenario in ANSI/BIFMA M7.1, as appropriate. USGBC-approved equivalent testing methodologies and contaminant thresholds are also acceptable. For classroom furniture, use the standard school classroom model in CDPH Standard Method v1.1. Documentation submitted for furniture must indicate the modeling scenario used to determine compliance.
+Salvaged and reused furniture more than one year old at the time of use is considered compliant, provided it meets the requirements for any site-applied paints, coatings, adhesives, and sealants.
+
+EQ-3
+To promote the well-being of construction workers and building occupants by minimizing indoor air quality problems associated with construction and renovation.
+Develop and implement an indoor air quality (IAQ) management plan for the construction and preoccupancy phases of the building. The plan must address all of the following.
+During construction, meet or exceed all applicable recommended control measures of the Sheet Metal and Air Conditioning National Contractors Association (SMACNA) IAQ Guidelines for Occupied Buildings under Construction, 2nd edition, 2007, ANSI/SMACNA 008–2008, Chapter 3.
+Protect absorptive materials stored on-site and installed from moisture damage.
+Do not operate permanently installed air-handling equipment during construction unless filtration media with a minimum efficiency reporting value (MERV) of 8, as determined by ASHRAE 52.2–2007, with errata (or equivalent filtration media class of F5 or higher, as defined by CEN Standard EN 779–2002, Particulate Air Filters for General Ventilation, Determination of the Filtration Performance), are installed at each return air grille and return or transfer duct inlet opening such that there is no bypass around the filtration media. Immediately before occupancy, replace all filtration media with the final design filtration media, installed in accordance with the manufacturer’s recommendations.
+Prohibit the use of tobacco products inside the building and within 25 feet (7.5 meters) of the building entrance during construction.
+
+EQ-4
+To establish better quality indoor air in the building after construction and during occupancy.
+Select one of the following two options, to be implemented after construction ends and the building has been completely cleaned. All interior finishes, such as millwork, doors, paint, carpet, acoustic tiles, and movable furnishings (e.g., workstations, partitions), must be installed, and major VOC punch list items must be finished. The options cannot be combined.
+Option 1. Flush-Out (1 point)
+Path 1. Before Occupancy
+Install new filtration media and perform a building flush-out by supplying a total air volume of 14,000 cubic feet of outdoor air per square foot (4 267 140 liters of outdoor air per square meter) of gross floor area while maintaining an internal temperature of at least 60°F (15°C) and no higher than 80°F (27°C) and relative humidity no higher than 60%.
+OR
+Path 2. During Occupancy
+If occupancy is desired before the flush-out is completed, the space may be occupied only after delivery of a minimum of 3,500 cubic feet of outdoor air per square foot (1 066 260 liters of outdoor air per square meter) of gross floor area while maintaining an internal temperature of at least 60°F (15°C) and no higher than 80°F (27°C) and relative humidity no higher than 60%..
+Once the space is occupied, it must be ventilated at a minimum rate of 0.30 cubic foot per minute (cfm) per square foot of outdoor air (1.5 liters per second per square meter of outside air) or the design minimum outdoor air rate determined in EQ Prerequisite Minimum Indoor Air Quality Performance, whichever is greater. During each day of the flush-out period, ventilation must begin at least three hours before occupancy and continue during occupancy. These conditions must be maintained until a total of 14,000 cubic feet per square foot of outdoor air (4 270 liters of outdoor air per square meter) has been delivered to the space.
+OR
+Option 2. Air Testing (2 points)
+After construction ends and before occupancy, but under ventilation conditions typical for occupancy, conduct baseline IAQ testing using protocols consistent with the methods listed in Table 1 for all occupied spaces. Use current versions of ASTM standard methods, EPA compendium methods, or ISO methods, as indicated. Laboratories that conduct the tests for chemical analysis of formaldehyde and volatile
+organic compounds must be accredited under ISO/IEC 17025 for the test methods they use. Retail projects may conduct the testing within 14 days of occupancy.
+Demonstrate that contaminants do not exceed the concentration levels listed in Table 1.
+Table 1. Maximum concentration levels, by contaminant and testing method
+Contaminant
+Maximum concentration
+ASTM and U.S. EPA methods
+ISO method
+Particulates
+PM10 (for all buildings)
+50 μg/m3 Healthcare only: 20 μg/m3
+EPA Compendium Method IP-10
+ISO 7708
+PM2.5 (for buildings in EPA nonattainment areas for PM2.5, or local equivalent)
+15 μg/m3
+Ozone (for buildings in EPA nonattainment areas for Ozone, or local equivalent)
+0.075 ppm
+ASTM D5149 - 02
+ISO 13964
+Carbon monoxide (CO)
+9 ppm; no more than 2 ppm above outdoor levels
+EPA Compendium Method IP-3
+ISO 4224
+Total volatile organic compounds (TVOCs)
+500 μg/m3
+Healthcare only: 200 μg/m3
+EPA TO-1, TO-17, or EPA Compendium Method IP-1
+ISO 16000-6
+Formaldehyde
+27 ppb
+Healthcare only: 16.3 ppb
+ASTM D5197, EPA TO-11, or
+EPA Compendium Method IP-6
+ISO 16000-3
+Target volatile organic compounds*
+1
+Acetaldehyde
+140 μg/m3
+2
+Benzene
+3 μg/m3
+ASTM D5197;
+EPA TO-1, TO-17, or EPA Compendium Method IP-1
+ISO 16000-3,
+ISO 16000-6
+3
+Carbon disulfide
+800 μg/m3
+4
+Carbon tetrachloride
+40 μg/m3
+5
+Chlorobenzene
+1000 μg/m3
+6
+Chloroform
+300 μg/m3
+7
+Dichlorobenzene (1,4-)
+800μg/m3
+8
+Dichloroethylene (1,1)
+70 μg/m3
+9
+Dimethylformamide (N,N-)
+80 μg/m3
+10
+Dioxane (1,4-)
+3000 μg/m3
+11
+Epichlorohydrin
+3 μg/m3
+12
+Ethylbenzene
+2000 μg/m3
+13
+Ethylene glycol
+400 μg/m3
+14
+Ethylene glycol monoethyl ether
+70 μg/m3
+15
+Ethylene glycol monoethyl ether acetate
+300 μg/m3
+16
+Ethylene glycol monomethyl ether
+60 μg/m3
+17
+Ethylene glycol monomethyl ether acetate
+90 μg/m3
+19
+Hexane (n-)
+7000 μg/m3
+20
+Isophorone
+2000 μg/m3
+21
+Isopropanol
+7000 μg/m3
+22
+Methyl chloroform
+1000 μg/m3
+23
+Methylene chloride
+400 μg/m3
+24
+Methyl t-butyl ether
+8000 μg/m3
+25
+Naphthalene
+9 μg/m3
+26
+Phenol
+200 μg/m3
+27
+Propylene glycol monomethyl ether
+7000 μg/m3
+28
+Styrene
+900 μg/m3
+29
+Tetrachloroethylene (Perchloroethylene)
+35 μg/m3
+30
+Toluene
+300 μg/m3
+31
+Trichloroethylene
+600 μg/m3
+32
+Vinyl acetate
+200 μg/m3
+33-35
+Xylenes, technical mixture (m-, o-, p-xylene combined)
+700 μg/m3
+ppb = parts per billion; ppm = parts per million; μg/m3 = micrograms per cubic meter
+*The target volatile organic compounds are from CDPH Standard Method v1.1, Table 4-1. The Maximum concentration limits for these target compounds are the full CREL adopted by Cal/EPA OEHHA in effect on June 2014 http://oehha.ca.gov/air/allrels.html.
+Conduct all measurements before occupancy but during normal occupied hours, with the building ventilation system started at the normal daily start time and operated at the minimum outdoor airflow rate for the occupied mode throughout the test.
+For each sampling point where the concentration exceeds the limit, take corrective action and retest for the noncompliant contaminants at the same sampling points. Repeat until all requirements are met.
+
+EQ-5
+To promote occupants’ productivity, comfort, and well-being by providing quality thermal comfort.
+Meet the requirements for both thermal comfort design and thermal comfort control.
+Thermal Comfort Design
+Option 1. ASHRAE Standard 55-2010
+Design heating, ventilating, and air-conditioning (HVAC) systems and the building envelope to meet the requirements of ASHRAE Standard 55–2010, Thermal Comfort Conditions for Human Occupancy with errata or a local equivalent.
+For natatoriums, demonstrate compliance with ASHRAE HVAC Applications Handbook, 2011 edition, Chapter 5, Places of Assembly, Typical Natatorium Design Conditions, with errata.
+OR
+Option 2. ISO and CEN Standards
+Design HVAC systems and the building envelope to meet the requirements of the applicable standard:
+• ISO 7730:2005, Ergonomics of the Thermal Environment, analytical determination and interpretation of thermal comfort, using calculation of the PMV and PPD indices and local thermal comfort criteria; and
+• CEN Standard EN 15251:2007, Indoor Environmental Input Parameters for Design and Assessment of Energy Performance of Buildings, addressing indoor air quality, thermal environment, lighting, and acoustics, Section A2.
+Thermal Comfort Control
+Provide individual thermal comfort controls for at least 50% of individual occupant spaces. Provide group thermal comfort controls for all shared multioccupant spaces.
+Thermal comfort controls allow occupants, whether in individual spaces or shared multioccupant spaces, to adjust at least one of the following in their local environment: air temperature, radiant temperature, air speed, and humidity.
+
+EQ-6
+To promote occupants’ productivity, comfort, and well-being by providing high-quality lighting.
+Select one or both of the following two options.
+Option 1. Lighting Control (1 point)
+For at least 90% of individual occupant spaces, provide individual lighting controls that enable occupants to adjust the lighting to suit their individual tasks and preferences, with at least three lighting levels or scenes (on, off, midlevel). Midlevel is 30% to 70% of the maximum illumination level (not including daylight contributions).
+For all shared multioccupant spaces, meet all of the following requirements.
+• Have in place multizone control systems that enable occupants to adjust the lighting to meet group needs and preferences, with at least three lighting levels or scenes (on, off, midlevel).
+• Lighting for any presentation or projection wall must be separately controlled.
+• Switches or manual controls must be located in the same space as the controlled luminaires. A person operating the controls must have a direct line of sight to the controlled luminaires.
+AND/OR
+Option 2. Lighting Quality (1 point)
+Choose four of the following strategies.
+A. For all regularly occupied spaces, use light fixtures with a luminance of less than 2,500 cd/m2 between 45 and 90 degrees from nadir.
+Exceptions include wallwash fixtures properly aimed at walls, as specified by manufacturer’s data, indirect uplighting fixtures, provided there is no view down into these uplights from a regularly occupied space above, and any other specific applications (i.e. adjustable fixtures).
+B. For the entire project, use light sources with a CRI of 80 or higher. Exceptions include lamps or fixtures specifically designed to provide colored lighting for effect, site lighting, or other special use.
+C. For at least 75% of the total connected lighting load, use light sources that have a rated life (or L70 for LED sources) of at least 24,000 hours (at 3-hour per start, if applicable).
+D. Use direct-only overhead lighting for 25% or less of the total connected lighting load for all regularly occupied spaces.
+E. For at least 90% of the regularly occupied floor area, meet or exceed the following thresholds for area-weighted average surface reflectance: 85% for ceilings, 60% for walls, and 25% for floors.
+F. If furniture is included in the scope of work, select furniture finishes to meet or exceed the following thresholds for area-weighted average surface reflectance: 45% for work surfaces, and 50% for movable partitions.
+G. For at least 75% of the regularly occupied floor area, meet a ratio of average wall surface illuminance (excluding fenestration) to average work plane (or surface, if defined) illuminance that does not exceed 1:10. Must also meet strategy E, strategy F, or demonstrate area-weighted surface reflectance of at least 60% for walls.
+H. For at least 75% of the regularly occupied floor area, meet a ratio of average ceiling illuminance (excluding fenestration) to work surface illuminance that does not exceed 1:10. Must also meet strategy E, strategy F, or demonstrate area-weighted surface reflectance of at least 85% for ceilings.
+
+EQ-7
+To connect building occupants with the outdoors, reinforce circadian rhythms, and reduce the use of electrical lighting by introducing daylight into the space.
+Provide manual or automatic (with manual override) glare-control devices for all regularly occupied spaces.
+Select one of the following three options.
+Option 1. Simulation: Spatial Daylight Autonomy and Annual Sunlight Exposure (2–3 points, 1-2 points Healthcare)
+Demonstrate through annual computer simulations that spatial daylight autonomy300/50% (sDA300/50%) of at least 55%, 75%, or 90% is achieved. Use regularly occupied floor area. Healthcare projects should use the perimeter area determined under EQ Credit Quality Views. Points are awarded according to Table 1.
+Table 1. Points for daylit floor area: Spatial daylight autonomy
+New Construction, Core and Shell, Schools, Retail, Data Centers, Warehouses and Distribution Centers, Hospitality
+Healthcare
+sDA (for regularly occupied floor area)
+Points
+sDA (for perimeter floor area)
+Points
+55%
+2
+75%
+1
+75%
+3
+90%
+2
+AND
+Demonstrate through annual computer simulations that annual sunlight exposure1000,250 (ASE1000,250) of no more than 10% is achieved. Use the regularly occupied floor area that is daylit per the sDA300/50% simulations.
+The sDA and ASE calculation grids should be no more than 2 feet (600 millimeters) square and laid out across the regularly occupied area at a work plane height of 30 inches (760 millimeters) above finished floor (unless otherwise defined). Use an hourly time-step analysis based on typical meteorological year
+data, or an equivalent, for the nearest available weather station. Include any permanent interior obstructions. Moveable furniture and partitions may be excluded.
+OR
+Option 2. Simulation: Illuminance Calculations (1–2 points)
+Demonstrate through computer modeling that illuminance levels will be between 300 lux and 3,000 lux for 9 a.m. and 3 p.m., both on a clear-sky day at the equinox, for the floor area indicated in Table 2. Use regularly occupied floor area. Healthcare projects should use the perimeter area determined under EQ Credit Quality Views.
+Table 2. Points for daylit floor area: Illuminance calculation
+New Construction, Core and Shell, Schools, Retail, Data Centers, Warehouses and Distribution Centers, Hospitality
+Healthcare
+Percentage of regularly occupied floor area
+Points
+Percentage of perimeter floor area
+Points
+75%
+1
+75%
+1
+90%
+2
+90%
+2
+Calculate illuminance intensity for sun (direct component) and sky (diffuse component) for clear-sky conditions as follows:
+• Use typical meteorological year data, or an equivalent, for the nearest available weather station.
+• Select one day within 15 days of September 21 and one day within 15 days of March 21 that represent the clearest sky condition.
+• Use the average of the hourly value for the two selected days.
+Exclude blinds or shades from the model. Include any permanent interior obstructions. Moveable furniture and partitions may be excluded.
+OR
+Option 3. Measurement (2-3 points, 1-2 points Healthcare)
+Achieve illuminance levels between 300 lux and 3,000 lux for the floor area indicated in Table 3.
+Table 3. Points for daylit floor area: Measurement
+New Construction, Core and Schools, Schools, Retail, Data Centers, Warehouses and Distribution Centers, Hospitality
+Healthcare
+Percentage of regularly occupied floor area
+Points
+Percentage of perimeter floor area
+75
+2
+75
+1
+90
+3
+90
+2
+With furniture, fixtures, and equipment in place, measure illuminance levels as follows:
+• Measure at appropriate work plane height during any hour between 9 a.m. and 3 p.m.
+• Take one measurement in any regularly occupied month, and take a second as indicated in Table 4.
+• For spaces larger than 150 square feet (14 square meters), take measurements on a maximum 10 foot (3 meter) square grid.
+• For spaces 150 square feet (14 square meters) or smaller, take measurements on a maximum 3 foot (900 millimeters) square grid.
+Table 4. Timing of measurements for illuminance
+If first measurement is taken in …
+take second measurement in …
+January
+May-September
+February
+June-October
+March
+June-July, November-December
+April
+August-December
+May
+September-January
+June
+October-February
+July
+November-March
+August
+December-April
+September
+December-January, May-June
+October
+February-June
+November
+March-July
+December
+April-August
+
+EQ-8
+To give building occupants a connection to the natural outdoor environment by providing quality views.
+Achieve a direct line of sight to the outdoors via vision glazing for 75% of all regularly occupied floor area.
+View glazing in the contributing area must provide a clear image of the exterior, not obstructed by frits, fibers, patterned glazing, or added tints that distort color balance.
+Additionally, 75% of all regularly occupied floor area must have at least two of the following four kinds of views:
+• multiple lines of sight to vision glazing in different directions at least 90 degrees apart;
+• views that include at least two of the following: (1) flora, fauna, or sky; (2) movement; and (3) objects at least 25 feet (7.5 meters) from the exterior of the glazing;
+• unobstructed views located within the distance of three times the head height of the vision glazing; and
+• views with a view factor of 3 or greater, as defined in “Windows and Offices; A Study of Office Worker Performance and the Indoor Environment.”
+Include in the calculations any permanent interior obstructions. Movable furniture and partitions may be excluded.
+Views into interior atria may be used to meet up to 30% of the required area.
+
+EQ-9
+To provide workspaces and classrooms that promote occupants’ well-being, productivity, and communications through effective acoustic design.
+For all occupied spaces, meet the following requirements, as applicable, for HVAC background noise, sound isolation, reverberation time, and sound reinforcement and masking.
+HVAC Background Noise
+Achieve maximum background noise levels from heating, ventilating, and air conditioning (HVAC) systems per 2011 ASHRAE Handbook, HVAC Applications, Chapter 48, Table 1; AHRI Standard 885-2008, Table 15; or a local equivalent. Calculate or measure sound levels.
+For measurements, use a sound level meter that conforms to ANSI S1.4 for type 1 (precision) or type 2 (general purpose) sound measurement instrumentation, or a local equivalent.
+Comply with design criteria for HVAC noise levels resulting from the sound transmission paths listed in ASHRAE 2011 Applications Handbook, Table 6; or a local equivalent.
+Sound Transmission
+Meet the composite sound transmission class (STCC) ratings listed in Table 1, or local building code, whichever is more stringent.
+Table 1. Minimum composite sound transmission class ratings for adjacent spaces
+Adjacency combinations
+STCC
+Residence (within a multifamily residence), hotel or motel room
+Residence, hotel or motel room
+55
+Residence, hotel or motel room
+Common hallway, stairway
+50
+Residence, hotel or motel room
+Retail
+60
+Retail
+Retail
+50
+Standard office
+Standard office
+45
+Executive office
+Executive office
+50
+Conference room
+Conference room
+50
+Office, conference room
+Hallway, stairway
+50
+Mechanical equipment room
+Occupied area
+60
+Reverberation Time
+Meet the reverberation time requirements in Table 2 (adapted from Table 9.1 in the Performance Measurement Protocols for Commercial Buildings3).
+Table 2. Reverberation time requirements
+Room type
+Application
+T60 (sec), at 500 Hz, 1000 Hz, and 2000 Hz
+Apartment and condominium
+—
+< 0.6
+Hotel/motel
+Individual room or suite
+< 0.6
+Meeting or banquet room
+< 0.8
+Office building
+Executive or private office
+< 0.6
+Conference room
+< 0.6
+Teleconference room
+< 0.6
+Open-plan office without sound masking
+< 0.8
+Open-plan office with sound masking
+< 0.8
+Courtroom
+Unamplified speech
+< 0.7
+Amplified speech
+< 1.0
+Performing arts space
+Drama theaters, concert and recital halls
+Varies by application
+Laboratories
+Testing or research with minimal speech communication
+< 1.0
+Extensive phone use and speech communication
+< 0.6
+Church, mosque, synagogue
+General assembly with critical music program
+Varies by application
+Library
+< 1.0
+Indoor stadium, gymnasium
+Gymnasium and natatorium
+< 2.0
+Large-capacity space with speech amplification
+< 1.5
+Classroom
+—
+< 0.6
+Sound Reinforcement and Masking Systems
+Sound Reinforcement
+For all large conference rooms and auditoriums seating more than 50 persons, evaluate whether sound reinforcement and AV playback capabilities are needed.
+If needed, the sound reinforcement systems must meet the following criteria:
+• Achieve a speech transmission index (STI) of at least 0.60 or common intelligibility scale (CIS) rating of at least 0.77 at representative points within the area of coverage to provide acceptable intelligibility.
+• Have a minimum sound level of 70 dBA.
+• Maintain sound-level coverage within +/–3 dB at the 2000 Hz octave band throughout the space.
+Masking Systems
+For projects that use masking systems, the design levels must not exceed 48 dBA. Ensure that loudspeaker coverage provides uniformity of +/–2 dBA and that speech spectra are effectively masked.
+
+IN-1
+To encourage projects to achieve exceptional or innovative performance.
+To achieve all five innovation points, a project team must achieve at least one pilot credit, at least one innovation credit and no more than two exemplary performance credits.
+Option 1. Innovation (1 point)
+Achieve significant, measurable environmental performance using a strategy not addressed in the LEED green building rating system.
+Identify the following:
+• the intent of the proposed innovation credit;
+• proposed requirements for compliance;
+• proposed submittals to demonstrate compliance; and
+• the design approach or strategies used to meet the requirements.
+AND/OR
+Option 2. Pilot (1 point)
+Achieve one pilot credit from USGBC’s LEED Pilot Credit Library.
+AND/OR
+Option 3. Additional Strategies
+• Innovation (1-3 points)
+Defined in Option 1 above.
+• Pilot (1-3 points)
+Meet the requirements of Option 2.
+• Exemplary Performance (1–2 points)
+Achieve exemplary performance in an existing LEED v4 prerequisite or credit that allows exemplary performance, as specified in the LEED Reference Guide, v4 edition. An exemplary
+performance point is typically earned for achieving double the credit requirements or the next incremental percentage threshold.
+
+IN-2
+To encourage the team integration required by a LEED project and to streamline the application and certification process.
+At least one principal participant of the project team must be a LEED Accredited Professional (AP) with a specialty appropriate for the project.
+
+RP-1
+To provide an incentive for the achievement of credits that address geographically specific environmental, social equity, and public health priorities.
+Earn up to four of the six Regional Priority credits. These credits have been identified by the USGBC regional councils and chapters as having additional regional importance for the project’s region. A database of Regional Priority credits and their geographic applicability is available on the USGBC website, http://www.usgbc.org.
+One point is awarded for each Regional Priority credit achieved, up to a maximum of four.

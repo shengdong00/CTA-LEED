@@ -1,0 +1,1185 @@
+SS-1
+Avoid development of inappropriate sites and reduce the environmental impact from
+the location of a building on a site.
+Do not develop buildings, roads or parking areas on portions of sites that
+meet any one of the following criteria:
+Prime farmland as defined by the United States Department of Agriculture
+in the United States Code of Federal Regulations, Title 7, Volume
+6, Parts 400 to 699, Section 657.5 (citation 7CFR657.5).
+Land whose elevation is lower than 5 feet above the elevation of the
+100-year flood as defined by the Federal Emergency Management
+Agency (FEMA).
+Land which is specifically identified as habitat for any species on
+Federal or State threatened or endangered lists.
+Within 100 feet of any water including wetlands as defined by United
+States Code of Federal Regulations 40 CFR, Parts 230-233 and Part 22,
+and isolated wetlands or areas of special concern identified by state
+or local rule, OR greater than distances given in state or local regulations
+as defined by local or state rule or law, whichever is more
+stringent.
+Land which prior to acquisition for the project was public parkland,
+unless land of equal or greater value as parkland is accepted in trade
+by the public landowner (Park Authority projects are exempt).
+Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring that the project site meets the credit requirements.
+Potential Technologies & Strategies
+During the site selection process, give preference to those sites that do not
+include sensitive site elements and restrictive land types. Select a suitable
+building location and design the building with the minimal footprint to minimize
+site disruption. Strategies include stacking the building program, tuckunder
+parking, and sharing facilities with neighbors.
+
+SS-2
+Channel development to urban areas with existing infrastructure, protect
+greenfields and preserve habitat and natural resources.
+Increase localized density to conform to existing or desired density goals by
+utilizing sites that are located within an existing minimum development density
+of 60,000 square feet per acre (two story downtown development).
+❏ Provide the LEED Letter Template, signed by the civil engineer, architect
+or other responsible party, declaring that the project has achieved the
+required development densities. Provide density for the project and for
+the surrounding area.
+❏ Provide an area plan with the project location highlighted.
+Potential Technologies & Strategies
+During the site selection process, give preference to urban sites.
+
+SS-3
+Rehabilitate damaged sites where development is complicated by real or
+perceived environmental contamination, reducing pressure on undeveloped
+land.
+Develop on a site documented as contaminated (by means of an ASTM E1903-
+97 Phase II Environmental Site Assessment) OR on a site classified as a
+brownfield by a local, state or federal government agency. Effectively remediate
+site contamination.
+❏ Provide a copy of the pertinent sections of the ASTM E1903-97 Phase II
+Environmental Site Assessment documenting the site contamination OR
+provide a letter from a local, state or federal regulatory agency confirming
+that the site is classified as a brownfield by that agency.
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring the type of damage that existed on the site and
+describing the remediation performed.
+During the site selection process, give preference to brownfield sites. Identify
+tax incentives and property cost savings. Develop and implement a site
+remediation plan using strategies such as pump-and-treat, bioreactors, land
+farming and in-situ remediation.
+
+SS-4.1
+Reduce pollution and land development impacts from automobile use.
+Locate project within 1/2 mile of a commuter rail, light rail or subway station
+or 1/4 mile of two or more public or campus bus lines usable by building
+occupants.
+❏ Provide the LEED Letter Template, signed by an appropriate party, declaring that
+the project building(s) are located within required proximity to mass transit.
+❏ Provide an area drawing or transit map highlighting the building
+location and the fixed rail stations and bus lines, and indicate the distances
+between them. Include a scale bar for distance measurement.
+Potential Technologies & Strategies
+Perform a transportation survey of future building occupants to identify transportation
+needs. Site the building near mass transit.
+
+SS-4.2
+Reduce pollution and land development impacts from automobile use.
+For commercial or institutional buildings, provide secure bicycle storage with
+convenient changing/shower facilities (within 200 yards of the building) for
+5% or more of regular building occupants. For residential buildings, provide
+covered storage facilities for securing bicycles for 15% or more of building
+occupants in lieu of changing/shower facilities.
+❏ For commercial projects: provide the LEED Letter Template, signed by
+the Architect or responsible party, declaring the distance to bicycle storage
+and showers from the building entrance and demonstrating that these
+facilities can accommodate at least 5% of building occupants.
+OR
+❏ For residential projects: provide the LEED Letter Template, signed by the
+architect or responsible party, declaring the design occupancy for the
+buildings, number of covered bicycle storage facilities for securing bicycles,
+and demonstrating that these facilities can accommodate at least
+15% of building occupants.
+Design the building with transportation amenities such as bicycle racks and
+showering/changing facilities.
+
+SS-4.3
+Reduce pollution and land development impacts from automobile use.
+Provide alternative fuel vehicles for 3% of building occupants AND provide
+preferred parking for these vehicles, OR install alternative-fuel refueling stations
+for 3% of the total vehicle parking capacity of the site. Liquid or gaseous
+fueling facilities must be separately ventilated or located outdoors.
+❏ Provide the LEED Letter Template and proof of ownership of, or 2 year
+lease agreement for, alternative fuel vehicles and calculations indicating
+that alternative fuel vehicles will serve 3% of building occupants. Provide
+site drawings or parking plan highlighting preferred parking for alternative
+fuel vehicles.
+OR
+❏ Provide the LEED Letter Template with specifications and site drawings
+highlighting alternative-fuel refueling stations. Provide calculations demonstrating
+that these facilities accommodate 3% or more of the total vehicle
+parking capacity.
+Provide transportation amenities such as alternative fuel refueling stations
+and carpool/vanpool programs. Consider sharing the costs and benefits of
+refueling stations with neighbors.
+
+SS-4.4
+Reduce pollution and land development impacts from single occupancy vehicle
+use.
+Size parking capacity to meet, but not exceed, minimum local zoning requirements
+AND provide preferred parking for carpools or vanpools capable
+of serving 5% of the building occupants; OR add no new parking for rehabilitation
+projects AND provide preferred parking for carpools or vanpools capable
+of serving 5% of the building occupants.
+❏ For new projects: provide the LEED Letter Template, signed by the civil
+engineer or responsible party, stating any relevant minimum zoning requirements
+and declaring that parking capacity is sized to meet, but not
+exceed them. State the number of preferred parking spaces for carpools.
+OR
+❏ For rehabilitation projects: provide the LEED Letter Template, signed by
+the civil engineer or responsible party, declaring that no new parking
+capacity has been added.State the number of preferred parking spaces
+for carpools.
+Minimize parking lot/garage size. Consider sharing parking facilities with
+adjacent buildings.
+
+SS-5.1
+Conserve existing natural areas and restore damaged areas to provide habitat
+and promote biodiversity.
+On greenfield sites, limit site disturbance including earthwork and clearing of
+vegetation to 40 feet beyond the building perimeter, 5 feet beyond primary
+roadway curbs, walkways and main utility branch trenches, and 25 feet beyond
+constructed areas with permeable surfaces (such as pervious paving
+areas, stormwater detention facilities and playing fields) that require additional
+staging areas in order to limit compaction in the constructed area; OR,
+on previously developed sites, restore a minimum of 50% of the site area
+(excluding the building footprint) by replacing impervious surfaces with native
+or adapted vegetation.
+❏ For greenfield sites: provide the LEED Letter Template, signed by the civil
+engineer or responsible party, demonstrating and declaring that site disturbance
+(including earthwork and clearing of vegetation) has been limited
+to 40 feet beyond the building perimeter, 5 feet beyond primary
+roadway curbs, walk ways and main utility branch trenches, and 25 feet
+beyond constructed areas with permeable surfaces. Provide site drawings
+and specifications highlighting limits of construction disturbance.
+OR
+❏ For previously developed sites: provide a LEED Letter Template, signed
+by the civil engineer or responsible party, declaring and describing restoration
+of degraded habitat areas. Include highlighted site drawings with
+area calculations demonstrating that 50% of the site area that does not
+fall within the building footprint has been restored.
+Perform a site survey to identify site elements and adopt a master plan for
+development of the project site. Select a suitable building location and design
+the building with a minimal footprint to minimize site disruption. Strategies
+include stacking the building program, tuck-under parking and sharing facilities
+with neighbors. Establish clearly marked construction boundaries to minimize
+disturbance of the existing site and restore previously degraded areas to
+their natural state.
+
+SS-5.2
+Conserve existing natural areas and restore damaged areas to provide habitat
+and promote biodiversity.
+Reduce the development footprint (defined as entire building footprint, access
+roads and parking) to exceed the local zoning’s open space requirement
+for the site by 25%. For areas with no local zoning requirements (e.g., some
+university campuses and military bases), designate open space area adjacent
+to the building that is equal to the development footprint.
+❏ Provide a copy of the local zoning requirements highlighting the criteria
+for open space. Provide the LEED Letter Template, signed by the civil
+engineer or responsible party, demonstrating and declaring that the open
+space exceeds the local zoning open space requirement for the site by
+25%.
+OR
+❏ For areas with no local zoning requirements (e.g., some university campuses
+and military bases), designate open space area adjacent to the
+building that is equal to the development footprint. Provide a letter from
+the property owner stating that the open space will be conserved for the
+life of the building.
+Perform a site survey to identify site elements and adopt a master plan for
+development of the project site. Select a suitable building location and design
+the building with a minimal footprint to minimize site disruption. Strategies
+include stacking the building program, tuck-under parking and sharing facilities
+with neighbors. Establish clearly marked construction boundaries to minimize
+disturbance of existing and restore previously degraded areas to their
+natural state.
+
+SS-6.1
+Limit disruption and pollution of natural water flows by managing stormwater
+runoff.
+If existing imperviousness is less than or equal to 50%, implement a stormwater
+management plan that prevents the post-development 1.5 year, 24 hour peak
+discharge rate from exceeding the pre-development 1.5 year, 24 hour peak
+discharge rate.
+OR
+If existing imperviousness is greater than 50%, implement a stormwater management
+plan that results in a 25% decrease in the rate and quantity of
+stormwater runoff.
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring that the post-development 1.5 year, 24 hour peak
+discharge rate does not exceed the pre-development 1.5 year 24 hour
+peak discharge rate. Include calculations demonstrating that existing site
+imperviousness is less than or equal to 50%.
+OR
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring and demonstrating that the stormwater management
+strategies result in at least a 25% decrease in the rate and quantity of
+stormwater runoff. Include calculations demonstrating that existing site
+imperviousness exceeds 50%.
+Design the project site to maintain natural stormwater flows by promoting
+infiltration. Specify garden roofs and pervious paving to minimize impervious
+surfaces. Reuse stormwater volumes generated for non-potable uses such
+as landscape irrigation, toilet and urinal flushing and custodial uses.
+
+SS-6.2
+Limit disruption of natural water flows by eliminating stormwater runoff,
+increasing on-site infiltration and eliminating contaminants.
+Construct site stormwater treatment systems designed to remove 80% of the
+average annual post-development total suspended solids (TSS) and 40% of
+the average annual post-development total phosphorous (TP) based on the
+average annual loadings from all storms less than or equal to the 2-year/24-
+hour storm. Do so by implementing Best Management Practices (BMPs) outlined
+in Chapter 4, Part 2 (Urban Runoff ), of the United States Environmental
+Protection Agency’s (EPA’s) Guidance Specifying Management Measures for Sources
+of Nonpoint Pollution in Coastal Waters, January 1993 (Document No. EPA-840-B-92-
+002) or the local government’s BMP document (whichever is more stringent).
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring that the design complies with or exceeds EPA or
+local government Best Management Practices (whichever set is more stringent)
+for removal of total suspended solids and total phosphorous.
+Design mechanical or natural treatment systems such as constructed wetlands,
+vegetated filter strips and bioswales to treat the site’s stormwater.
+
+SS-7.1
+Reduce heat islands (thermal gradient differences between developed and
+undeveloped areas) to minimize impact on microclimate and human and
+wildlife habitat.
+Provide shade (within 5 years) and/or use light-colored/high-albedo materials
+(reflectance of at least 0.3) and/or open grid pavement for at least 30% of
+the site’s non-roof impervious surfaces, including parking lots, walkways,
+plazas, etc.; OR place a minimum of 50% of parking spaces underground or
+covered by structured parking; OR use an open-grid pavement system (less
+than 50% impervious) for a minimum of 50% of the parking lot area.
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, referencing the site plan to demonstrate areas of paving, landscaping
+(list species) and building footprint, and declaring that:
+❏ A minimum of 30% of non-roof impervious surfaces areas are constructed
+with high-albedo materials and/or open grid pavement and/
+or will be shaded within five years
+❏ OR a minimum of 50% of parking spaces have been placed underground
+or are covered by structured parking
+❏ OR an open-grid pavement system (less than 50% impervious) has
+been used for a minimum of 50% of the parking lot area.
+Shade constructed surfaces on the site with landscape features and minimize
+the overall building footprint. Consider replacing constructed surfaces (i.e. roof,
+roads, sidewalks, etc.) with vegetated surfaces such as garden roofs and open
+grid paving or specify high-albedo materials to reduce the heat absorption.
+
+SS-7.2
+Reduce heat islands (thermal gradient differences between developed and
+undeveloped areas) to minimize impact on microclimate and human and
+wildlife habitat.
+Use ENERGY STAR® compliant (highly reflective) AND high emissivity roofing
+(emissivity of at least 0.9 when tested in accordance with ASTM 408) for a
+minimum of 75% of the roof surface; OR install a “green” (vegetated) roof for
+at least 50% of the roof area. Combinations of high albedo and vegetated roof
+can be used providing they collectively cover 75% of the roof area.
+❏ Provide the LEED Letter Template, signed by the architect, civil engineer
+or responsible party, referencing the building plan and declaring that the
+roofing materials comply with the ENERGY STAR® Label requirements and
+have a minimum emissivity of 0.9. Demonstrate that high-albedo and
+vegetated roof areas combined constitute at least 75% of the total roof area.
+OR
+❏ Provide the LEED Letter Template, signed by the architect, civil engineer
+or responsible party, referencing the building plan and demonstrating
+that vegetated roof areas constitute at least 50% of the total roof area.
+Visit the ENERGY STAR® Web site, www.energystar.gov, to look for compliant
+products. Consider installing high-albedo and vegetated roofs to reduce heat
+absorption.
+
+SS-8
+Eliminate light trespass from the building and site, improve night sky access
+and reduce development impact on nocturnal environments.
+Meet or provide lower light levels and uniformity ratios than those recommended
+by the Illuminating Engineering Society of North America (IESNA)
+Recommended Practice Manual: Lighting for Exterior Environments (RP-33-99). Design
+exterior lighting such that all exterior luminaires with more than 1000
+initial lamp lumens are shielded and all luminaires with more than 3500
+initial lamp lumens meet the Full Cutoff IESNA Classification. The maximum
+candela value of all interior lighting shall fall within the building (not out
+through windows) and the maximum candela value of all exterior lighting
+shall fall within the property. Any luminaire within a distance of 2.5 times its
+mounting height from the property boundary shall have shielding such that
+no light from that luminaire crosses the property boundary.
+❏ Provide the LEED Letter Template, signed by an appropriate party, declaring
+that the credit requirements have been met.
+Adopt site lighting criteria to maintain safe light levels while avoiding off-site
+lighting and night sky pollution. Minimize site lighting where possible and
+model the site lighting using a computer model. Technologies to reduce light
+pollution include full cutoff luminaries, low-reflectance surfaces and lowangle
+spotlights.
+
+WE-1.1
+Limit or eliminate the use of potable water for landscape irrigation.
+Use high-efficiency irrigation technology OR use captured rain or recycled
+site water to reduce potable water consumption for irrigation by 50% over
+conventional means.
+❏ Provide the LEED Letter Template, signed by the architect, engineer or
+responsible party, declaring that potable water consumption for site irrigation
+has been reduced by 50%. Include a brief narrative of the equipment
+used and/or the use of drought-tolerant or native plants.
+Perform a soil/climate analysis to determine appropriate landscape types and
+design the landscape with indigenous plants to reduce or eliminate irrigation
+requirements. Use high-efficiency irrigation systems and consider using
+stormwater and/or greywater for irrigation.
+
+WE-1.2
+Limit or eliminate the use of potable water for landscape irrigation.
+Use only captured rain or recycled site water to eliminate all potable water
+use for site irrigation (except for initial watering to establish plants), OR do
+not install permanent landscape irrigation systems.
+❏ Provide the LEED Letter Template, signed by the responsible architect
+and/or engineer, declaring that the project site will not use potable water
+for irrigation. Include a narrative describing the captured rain system, the
+recycled site water system, and their holding capacity. List all the plant
+species used. Include calculations demonstrating that irrigation requirements
+can be met from captured rain or recycled site water.
+OR
+❏ Provide the LEED Letter Template, signed by the landscape architect or
+responsible party, declaring that the project site does not have a permanent
+landscape irrigation system. Include a narrative describing how the
+landscape design allows for this.
+Perform a soil/climate analysis to determine appropriate landscape types and
+design the landscape with indigenous plants to reduce or eliminate irrigation
+requirements. Consider using stormwater and/or greywater for irrigation.
+
+WE-2
+Reduce generation of wastewater and potable water demand, while increasing
+the local aquifer recharge.
+Reduce the use of municipally provided potable water for building sewage
+conveyance by a minimum of 50%, OR treat 100% of wastewater on site to
+tertiary standards.
+❏ Provide the LEED Letter Template, signed by the architect, MEP engineer
+or responsible party, declaring that water for building sewage conveyance
+will be reduced by at least 50%. Include the spreadsheet calculation
+and a narrative demonstrating the measures used to reduce wastewater
+by at least 50% from baseline conditions.
+OR
+❏ Provide the LEED Letter Template, signed by the civil engineer or responsible
+party, declaring that 100% of wastewater will be treated to tertiary
+standards on site. Include a narrative describing the on-site wastewater
+treatment system.
+Specify high-efficiency fixtures and dry fixtures such as composting toilets
+and waterless urinals to reduce wastewater volumes. Consider reusing
+stormwater or greywater for sewage conveyance or on-site wastewater treatment
+systems (mechanical and/or natural).
+
+WE-3.1
+Maximize water efficiency within buildings to reduce the burden on municipal
+water supply and wastewater systems.
+Employ strategies that in aggregate use 20% less water than the water use
+baseline calculated for the building (not including irrigation) after meeting
+the Energy Policy Act of 1992 fixture performance requirements.
+❏ Provide the LEED Letter Template, signed by the MEP engineer or responsible
+party, declaring that the project uses 20% less water than the
+baseline fixture performance requirements of the Energy Policy Act of
+1992.
+❏ Provide the spreadsheet calculation demonstrating that water-consuming
+fixtures specified for the stated occupancy and use of the building reduce
+occupancy-based potable water consumption by 20% compared to baseline
+conditions.
+Estimate the potable and non-potable water needs for the building. Use highefficiency
+fixtures, dry fixtures such as composting toilets and waterless urinals,
+and occupant sensors to reduce the potable water demand. Consider
+reuse of stormwater and greywater for non-potable applications such as toilet
+and urinal flushing, mechanical systems and custodial uses.
+
+WE-3.2
+Maximize water efficiency within buildings to reduce the burden on municipal
+water supply and wastewater systems.
+Employ strategies that in aggregate use 30% less water than the water use
+baseline calculated for the building (not including irrigation) after meeting
+the Energy Policy Act of 1992 fixture performance requirements.
+❏ Provide the LEED Letter Template, signed by the MEP engineer or responsible
+party, declaring that the project uses 30% less water than the
+baseline fixture performance requirements of the Energy Policy Act of
+1992.
+❏ Provide the spreadsheet calculation demonstrating that water-consuming
+fixtures specified for the stated occupancy and use of the building reduce
+occupancy-based potable water consumption by 30% compared to baseline
+conditions.
+Estimate the potable and non-potable water needs for the building. Use highefficiency
+fixtures, dry fixtures such as composting toilets and waterless urinals,
+and occupant sensors to reduce the potable water demand. Consider
+reuse of stormwater and greywater for non-potable applications such as toilet
+and urinal flushing, mechanical systems and custodial uses.
+
+EA-1
+Achieve increasing levels of energy performance above the prerequisite standard
+to reduce environmental impacts associated with excessive energy use.
+Reduce design energy cost compared to the energy cost budget for energy
+systems regulated by ASHRAE/IESNA Standard 90.1-1999 (without amendments),
+as demonstrated by a whole building simulation using the Energy
+Cost Budget Method described in Section 11 of the Standard.
+New Bldgs. Existing Bldgs. Points
+15% 5% 1
+20% 10% 2
+25% 15% 3
+30% 20% 4
+35% 25% 5
+40% 30% 6
+45% 35% 7
+50% 40% 8
+55% 45% 9
+60% 50% 10
+Regulated energy systems include HVAC (heating, cooling, fans and pumps),
+service hot water and interior lighting. Non-regulated systems include plug
+loads, exterior lighting, garage ventilation and elevators (vertical transportation).
+Two methods may be used to separate energy consumption for regulated
+systems. The energy consumption for each fuel may be prorated according
+to the fraction of energy used by regulated and non-regulated energy.
+Alternatively, separate meters (accounting) may be created in the energy
+simulation program for regulated and non-regulated energy uses.
+If an analysis has been made comparing the proposed design to local energy
+standards and a defensible equivalency (at minimum) to ASHRAE/IESNA Standard
+90.1-1999 has been established, then the comparison against the local
+code may be used in lieu of the ASHRAE Standard.
+Project teams are encouraged to apply for innovation credits if the energy
+consumption of non-regulated systems is also reduced.
+Complete the LEED Letter Template incorporating a quantitative summary
+table showing the energy saving strategies incorporated in the building
+design.
+❏ Demonstrate via summary printout from energy simulation software that
+the design energy cost is less than the energy cost budget as defined in
+ASHRAE/IESNA 90.1-1999, Section 11.
+Design the building envelope and building systems to maximize energy performance.
+Use a computer simulation model to assess the energy performance
+and identify the most cost-effective energy efficiency measures. Quantify
+energy performance as compared to a baseline building.
+
+EA-2.1
+Encourage and recognize increasing levels of on-site renewable energy selfsupply
+in order to reduce environmental impacts associated with fossil fuel
+energy use.
+Supply at least 5% of the building’s total energy use (as expressed as a fraction
+of annual energy cost) through the use of on-site renewable energy
+systems.
+❏ Provide the LEED Letter Template, signed by the architect, owner or responsible
+party, declaring that at least 5% of the building’s energy is
+provided by on-site renewable energy. Include a narrative describing onsite
+renewable energy systems installed in the building and calculations
+demonstrating that at least 5% of total energy costs are supplied by the
+renewable energy system(s).
+Assess the project for non-polluting and renewable energy potential including
+solar, wind, geothermal, low-impact hydro, biomass and bio-gas strategies.
+When applying these strategies, take advantage of net metering with the
+local utility.
+
+EA-2.2
+Encourage and recognize increasing levels of self-supply through renewable
+technologies to reduce environmental impacts associated with fossil fuel energy
+use.
+Supply at least 10% of the building’s total energy use (as expressed as a
+fraction of annual energy cost) through the use of on-site renewable energy
+systems.
+❏ Provide the LEED Letter Template, signed by the architect, owner or responsible
+party, declaring that at least 10% of the building’s energy is
+provided by on-site renewable energy. Include a narrative describing onsite
+renewable energy systems installed in the building and calculations
+demonstrating that at least 10% of total energy costs are supplied by the
+renewable energy system(s).
+Assess the project for non-polluting renewable energy potential including
+solar, wind, geothermal, low-impact hydro, biomass and bio-gas strategies.
+When applying these strategies, take advantage of net metering with the
+local utility.
+
+EA-2.3
+Encourage and recognize increasing levels of self-supply through renewable
+technologies to reduce environmental impacts associated with fossil fuel energy
+use.
+Supply at least 20% of the building’s total energy use (as expressed as a
+fraction of annual energy cost) through the use of on-site renewable energy
+systems.
+❏ Provide the LEED Letter Template, signed by the architect, owner or responsible
+party, declaring that at least 20% of the building’s energy is
+provided by on-site renewable energy. Include a narrative describing onsite
+renewable energy systems installed in the building and calculations
+demonstrating that at least 20% of total energy costs are supplied by the
+renewable energy system(s).
+Assess the project for non-polluting and renewable energy potential including
+solar, wind, geothermal, low-impact hydro, biomass and bio-gas strategies.
+When applying these strategies, take advantage of net metering with the
+local utility.
+
+EA-3
+Verify and ensure that the entire building is designed, constructed and calibrated
+to operate as intended.
+In addition to the Fundamental Building Commissioning prerequisite, implement
+or have a contract in place to implement the following additional commissioning
+tasks:
+1. A commissioning authority independent of the design team shall conduct
+a review of the design prior to the construction documents phase.
+2. An independent commissioning authority shall conduct a review of
+the construction documents near completion of the construction document
+development and prior to issuing the contract documents for
+construction.
+3. An independent commissioning authority shall review the contractor
+submittals relative to systems being commissioned.
+4. Provide the owner with a single manual that contains the information
+required for re-commissioning building systems.
+5. Have a contract in place to review building operation with O&M staff,
+including a plan for resolution of outstanding commissioning-related
+issues within one year after construction completion date.
+❏ Provide the LEED Letter Template, signed by the owner or independent
+commissioning agent(s) as appropriate, confirming that the required additional
+commissioning tasks have been successfully executed or will be
+provided under existing contract(s).
+Engage the commissioning authority early in the design phases
+
+EA-4
+Reduce ozone depletion and support early compliance with the Montreal
+Protocol.
+Install base building level HVAC and refrigeration equipment and fire suppression
+systems that do not contain HCFCs or Halons.
+❏ Provide the LEED Letter Template, signed by the architect or engineer,
+stating that HVAC&R systems as-built are free of HCFCs and Halons.
+When reusing buildings, inventory existing building systems using refrigerants
+and fire suppression chemicals and replace those that contain HCFCs or
+Halons. For new buildings, specify refrigeration and fire suppression systems
+that use no HCFCs or Halons.
+
+EA-5
+Provide for the ongoing accountability and optimization of building energy
+and water consumption performance over time.
+Install continuous metering equipment for the following end-uses:
+ Lighting systems and controls
+ Constant and variable motor loads
+ Variable frequency drive (VFD) operation
+ Chiller efficiency at variable loads (kW/ton)
+ Cooling load
+ Air and water economizer and heat recovery cycles
+ Air distribution static pressures and ventilation air volumes
+ Boiler efficiencies
+ Building-related process energy systems and equipment
+ Indoor water risers and outdoor irrigation systems
+Develop a Measurement and Verification plan that incorporates the monitoring
+information from the above end-uses and is consistent with Option B, C
+or D of the 2001 International Performance Measurement & Verification Protocol
+(IPMVP) Volume I: Concepts and Options for Determining Energy and Water Savings.
+❏ Provide the LEED Letter Template, signed by the licensed engineer or
+other responsible party, indicating that metering equipment has been
+installed for each end-use and declaring the option to be followed under
+IPMVP version 2001.
+❏ Provide a copy of the M&V plan following IPMVP, 2001version, including
+an executive summary.
+Model the energy and water systems to predict savings. Design the building
+with equipment to measure energy and water performance. Draft a Measurement
+& Verification Plan to apply during building operation that compares
+predicted savings to those actually achieved in the field.
+
+EA-6
+Encourage the development and use of grid-source, renewable energy technologies
+on a net zero pollution basis.
+Provide at least 50% of the building’s electricity from renewable sources by
+engaging in at least a two-year renewable energy contract. Renewable sources
+are as defined by the Center for Resource Solutions (CRS) Green-e products
+certification requirements.
+❏ Provide the LEED Letter Template, signed by the owner or other responsible
+party, documenting that the supplied renewable power is equal to
+50% of the project’s energy consumption and the sources meet the Greene
+definition of renewable energy.
+❏ Provide a copy of the two-year electric utility purchase contract for power
+generated from renewable sources.
+Determine the energy needs of the building and investigate opportunities to engage in a
+green power contract with the local utility. Green power is derived from solar, wind, geothermal,
+biomass or low-impact hydro sources. Green power may be procured from a
+Green-e certified power marketer, a Green-e accredited utility program, through Green-e
+certified Tradable Renewable Certificates, or from a supply that meets the Green-e renewable
+power definition.Visit www.green-e.org for details about the Green-e program.
+
+MR-1.1
+Extend the life cycle of existing building stock, conserve resources, retain
+cultural resources, reduce waste and reduce environmental impacts of new
+buildings as they relate to materials manufacturing and transport.
+Maintain at least 75% of existing building structure and shell (exterior skin
+and framing, excluding window assemblies and non-structural roofing material).
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, listing the retained elements and declaring that the
+credit requirements have been met.
+Consider reuse of existing buildings, including structure, shell and non-shell
+elements. Remove elements that pose contamination risk to building occupants
+and upgrade outdated components such as windows, mechanical systems
+and plumbing fixtures. Quantify the extent of building reuse.
+
+MR-1.2
+Extend the life cycle of existing building stock, conserve resources, retain
+cultural resources, reduce waste and reduce environmental impacts of new
+buildings as they relate to materials manufacturing and transport.
+Maintain an additional 25% (100% total) of existing building structure and
+shell (exterior skin and framing, excluding window assemblies and nonstructural
+roofing material).
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, demonstrating the retained elements and declaring that
+the credit requirements have been met.
+Consider reuse of existing buildings, including structure, shell and non-shell
+elements. Remove elements that pose contamination risk to building occupants
+and upgrade outdated components such as windows, mechanical systems
+and plumbing fixtures. Quantify the extent of building reuse.
+
+MR-1.3
+Extend the life cycle of existing building stock, conserve resources, retain
+cultural resources, reduce waste and reduce environmental impacts of new
+buildings as they relate to materials manufacturing and transport.
+Maintain 100% of existing building structure and shell (exterior skin and
+framing, excluding window assemblies and non-structural roofing material)
+AND at least 50% of non-shell areas (interior walls, doors, floor coverings
+and ceiling systems).
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, demonstrating the retained elements and declaring that
+the credit requirements have been met.
+Consider reuse of existing buildings, including structure, shell and non-shell
+elements. Remove elements that pose contamination risk to building occupants
+and upgrade outdated components such as windows, mechanical systems
+and plumbing fixtures. Quantify the extent of building reuse.
+
+MR-2.1
+Divert construction, demolition and land clearing debris from landfill disposal.
+Redirect recyclable recovered resources back to the manufacturing
+process. Redirect reusable materials to appropriate sites.
+Develop and implement a waste management plan, quantifying material diversion
+goals. Recycle and/or salvage at least 50% of construction, demolition
+and land clearing waste. Calculations can be done by weight or volume,
+but must be consistent throughout.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, tabulating the total waste material, quantities diverted
+and the means by which diverted, and declaring that the credit requirements
+have been met.
+Establish goals for landfill diversion and adopt a construction waste management
+plan to achieve these goals. Consider recycling land clearing debris,
+cardboard, metal, brick, concrete, plastic, clean wood, glass, gypsum wallboard,
+carpet and insulation. Designate a specific area on the construction
+site for recycling and track recycling efforts throughout the construction process.
+Identify construction haulers and recyclers to handle the designated
+materials. Note that salvage may include donation of materials to charitable
+organizations such as Habitat for Humanity.
+
+MR-2.2
+Divert construction, demolition and land clearing debris from landfill disposal.
+Redirect recyclable recovered resources back to the manufacturing
+process. Redirect reusable materials to appropriate sites.
+Develop and implement a waste management plan, quantifying material diversion
+goals. Recycle and/or salvage an additional 25% (75% total) of construction,
+demolition and land clearing waste. Calculations can be done by
+weight or volume, but must be consistent throughout.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, tabulating the total waste material, quantities diverted
+and the means by which diverted, and declaring that the credit requirements
+have been met.
+Establish goals for landfill diversion and adopt a construction waste management
+plan to achieve these goals. Consider recycling land clearing debris,
+cardboard, metal, brick, concrete, plastic, clean wood, glass, gypsum wallboard,
+carpet and insulation. Designate a specific area on the construction
+site for recycling and track recycling efforts throughout the construction process.
+Identify construction haulers and recyclers to handle the designated
+materials. Note that salvage may include donation of materials to charitable
+organizations such as Habitat for Humanity.
+
+MR-3.1
+Reuse building materials and products in order to reduce demand for virgin
+materials and to reduce waste, thereby reducing impacts associated with the
+extraction and processing of virgin resources.
+Use salvaged, refurbished or reused materials, products and furnishings for at
+least 5% of building materials.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, declaring that the credit requirements have been met
+and listing each material or product used to meet the credit. Include
+details demonstrating that the project incorporates the required percentage
+of reused materials and products and showing their costs and the
+total cost of materials for the project.
+Identify opportunities to incorporate salvaged materials into building design
+and research potential material suppliers. Consider salvaged materials such
+as beams and posts, flooring, paneling, doors and frames, cabinetry and
+furniture, brick and decorative items.
+
+MR-3.2
+Reuse building materials and products in order to reduce demand for virgin
+materials and to reduce waste, thereby reducing impacts associated with the
+extraction and processing of virgin resources.
+Use salvaged, refurbished or reused materials, products and furnishings for at
+least 10% of building materials.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, declaring that the credit requirements have been met
+and listing each material or product used to meet the credit. Include
+details demonstrating that the project incorporates the required percentage
+of reused materials and products and showing their costs and the
+total cost of all materials for the project.
+Identify opportunities to incorporate salvaged materials into building design
+and research potential material suppliers. Consider salvaged materials such
+as beams and posts, flooring, paneling, doors and frames, cabinetry and
+furniture, brick and decorative items.
+
+MR-4.1
+Increase demand for building products that incorporate recycled content
+materials, therefore reducing impacts resulting from extraction and processing
+of new virgin materials.
+Use materials with recycled content such that the sum of post-consumer
+recycled content plus one-half of the post-industrial content constitutes at
+least 5% of the total value of the materials in the project.
+The value of the recycled content portion of a material or furnishing shall be
+determined by dividing the weight of recycled content in the item by the total
+weight of all material in the item, then multiplying the resulting percentage
+by the total value of the item.
+Mechanical and electrical components shall not be included in this calculation.
+Recycled content materials shall be defined in accordance with the Federal
+Trade Commission document, Guides for the Use of Environmental Marketing
+Claims, 16 CFR 260.7 (e), available at www.ftc.gov/bcp/grnrule/
+guides980427.htm.
+Establish a project goal for recycled content materials and identify material
+suppliers that can achieve this goal. During construction, ensure that the
+specified recycled content materials are installed and quantify the total percentage
+of recycled content materials installed.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, declaring that the credit requirements have been met
+and listing the recycled content products used. Include details demonstrating
+that the project incorporates the required percentage of recycled
+content materials and products and showing their cost and percentage(s)
+of post-consumer and/or post-industrial content, and the total cost of all
+materials for the project.
+
+MR-4.2
+Increase demand for building products that incorporate recycled content
+materials, therefore reducing the impacts resulting from extraction and processing
+of new virgin materials.
+Use materials with recycled content such that the sum of post-consumer
+recycled content plus one-half of the post-industrial content constitutes at
+least 10% of the total value of the materials in the project.
+The value of the recycled content portion of a material or furnishing shall be
+determined by dividing the weight of recycled content in the item by the total
+weight of all material in the item, then multiplying the resulting percentage
+by the total value of the item.
+Mechanical and electrical components shall not be included in this calculation.
+Recycled content materials shall be defined in accordance with the Federal
+Trade Commission document, Guides for the Use of Environmental Marketing
+Claims, 16 CFR 260.7 (e), available at www.ftc.gov/bcp/grnrule/
+guides980427.htm.
+❏ Provide the LEED Letter Template, signed by the architect, owner or other
+responsible party, declaring that the credit requirements have been met
+and listing the recycled content products used. Include details demonstrating
+that the project incorporates the required percentage of recycled
+content materials and products and showing their cost and percentage(s)
+of post-consumer and/or post-industrial content, and the total cost of all
+materials for the project.
+Establish a project goal for recycled content materials and identify material
+suppliers that can achieve this goal. During construction, ensure that the
+specified recycled content materials are installed and quantify the total percentage
+of recycled content materials installed.
+
+MR-5.1
+Increase demand for building materials and products that are extracted and
+manufactured within the region, thereby supporting the regional economy
+and reducing the environmental impacts resulting from transportation .
+Use a minimum of 20% of building materials and products that are manufactured*
+regionally within a radius of 500 miles.
+* Manufacturing refers to the final assembly of components into the building product that is
+furnished and installed by the tradesmen. For example, if the hardware comes from Dallas,
+Texas, the lumber from Vancouver, British Columbia, and the joist is assembled in Kent,
+Washington; then the location of the final assembly is Kent, Washington.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, declaring that the credit requirements have been met. Include calculations
+demonstrating that the project incorporates the required percentage
+of regional materials/products and showing their cost, percentage
+of regional components, distance from project to manufacturer, and
+the total cost of all materials for the project.
+Establish a project goal for locally sourced materials and identify materials
+and material suppliers that can achieve this goal. During construction, ensure
+that the specified local materials are installed and quantify the total percentage
+of local materials installed.
+
+MR-5.2
+Increase demand for building materials and products that are extracted and
+manufactured within the region, thereby supporting the regional economy
+and reducing the environmental impacts resulting from transportation.
+Of the regionally manufactured materials documented for MR Credit 5.1, use
+a minimum of 50% of building materials and products that are extracted,
+harvested or recovered (as well as manufactured) within 500 miles of the project site.
+❏ Provide the LEED Letter Template, signed by the architect or responsible party,
+declaring that the credit requirements have been met. Include calculations demonstrating
+that the project incorporates the required percentage of regional materials/
+products and showing their cost, percentage of regional components, distance
+from project to manufacturer, and the total cost of all materials for the project.
+Establish a project goal for locally sourced materials and identify materials
+and material suppliers that can achieve this goal. During construction, ensure
+that the specified local materials are installed and quantify the total percentage
+of local materials installed.
+
+MR-6
+Reduce the use and depletion of finite raw materials and long-cycle renewable materials
+by replacing them with rapidly renewable materials.
+Use rapidly renewable building materials and products (made from plants
+that are typically harvested within a ten-year cycle or shorter) for 5% of the
+total value of all building materials and products used in the project.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, declaring that the credit requirements have been met. Include calculations
+demonstrating that the project incorporates the required percentage
+of rapidly renewable products. Show their cost and percentage
+of rapidly renewable components, and the total cost of all materials for
+the project.
+Establish a project goal for rapidly renewable materials and identify materials
+and suppliers that can achieve this goal. Consider materials such as bamboo
+flooring, wool carpets, straw board, cotton batt insulation, linoleum flooring,
+poplar OSB, sunflower seed board, wheatgrass cabinetry and others. During
+construction, ensure that the specified rapidly renewable materials are installed.
+
+MR-7
+Encourage environmentally responsible forest management.
+Use a minimum of 50% of wood-based materials and products, certified in
+accordance with the Forest Stewardship Council’s Principles and Criteria, for
+wood building components including, but not limited to, structural framing
+and general dimensional framing, flooring, finishes, furnishings, and nonrented
+temporary construction applications such as bracing, concrete form
+work and pedestrian barriers.
+❏ Provide the LEED Letter Template, signed by the architect, owner or responsible
+party, declaring that the credit requirements have been met
+and listing the FSC-certified materials and products used. Include calculations
+demonstrating that the project incorporates the required percentage
+of FSC-certified materials/products and their cost together with the total
+cost of all materials for the project. For each material/product used to
+meet these requirements, provide the vendor’s or manufacturer’s Forest
+Stewardship Council chain-of-custody certificate number.
+Establish a project goal for FSC-certified wood products and identify suppliers
+that can achieve this goal. During construction, ensure that the FSC-certified
+wood products are installed and quantify the total percentage of FSCcertified
+wood products installed.
+
+EQ-1
+Provide capacity for indoor air quality (IAQ) monitoring to help sustain longterm
+occupant comfort and well-being.
+Install a permanent carbon dioxide (CO2) monitoring system that provides
+feedback on space ventilation performance in a form that affords operational
+adjustments. Refer to the CO2 differential for all types of occupancy in accordance
+with ASHRAE 62-2001, Appendix D.
+❏ Provide the LEED Letter Template, signed by the mechanical engineer or
+responsible party, declaring and summarizing the installation, operational
+design and controls/zones for the carbon dioxide monitoring system. For
+mixed-use buildings, calculate CO2 levels for each separate activity level
+and use.
+Design the HVAC system with carbon dioxide monitoring sensors and integrate
+these sensors with the building automation system (BAS).
+
+EQ-2
+Provide for the effective delivery and mixing of fresh air to support the safety,
+comfort and well-being of building occupants.
+For mechanically ventilated buildings, design ventilation systems that result in
+an air change effectiveness (Eac) greater than or equal to 0.9 as determined by
+ASHRAE 129-1997. For naturally ventilated spaces demonstrate a distribution
+and laminar flow pattern that involves not less than 90% of the room or zone
+area in the direction of air flow for at least 95% of hours of occupancy.
+❏ For mechanically ventilated spaces: provide the LEED Letter Template,
+signed by the mechanical engineer or responsible party, declaring that
+the design achieves an air change effectiveness (Eac) of 0.9 or greater in
+each ventilated zone. Complete the table summarizing the air change
+effectiveness achieved for each zone.
+OR
+❏ For mechanically ventilated spaces: provide the LEED Letter Template, signed
+by the mechanical engineer or responsible party, declaring that the design
+complies with the recommended design approaches in ASHRAE 2001 Fundamentals
+Chapter 32, Space Air Diffusion.
+OR
+❏ For naturally ventilated spaces: provide the LEED Letter Template, signed
+by the mechanical engineer or responsible party, declaring that the design
+provides effective ventilation in at least 90% of each room or zone
+area in the direction of airflow for at least 95% of hours of occupancy.
+Include a table summarizing the airflow simulation results for each zone.
+Include sketches indicating the airflow pattern for each zone.
+Design the HVAC system and building envelope to optimize air change effectiveness.
+Air change effectiveness can be optimized using a variety of ventilation
+strategies including displacement ventilation, low-velocity ventilation,
+plug-flow ventilation such as under floor or near floor delivery, and operable
+windows. Test the air change effectiveness of the building after construction.
+
+EQ-3.1
+Prevent indoor air quality problems resulting from the construction/renovation
+process in order to help sustain the comfort and well-being of construction
+workers and building occupants.
+Develop and implement an Indoor Air Quality (IAQ) Management Plan for
+the construction and pre-occupancy phases of the building as follows:
+ During construction meet or exceed the recommended Design Approaches
+of the Sheet Metal and Air Conditioning National Contractors
+Association (SMACNA) IAQ Guideline for Occupied Buildings
+under Construction, 1995, Chapter 3.
+ Protect stored on-site or installed absorptive materials from moisture
+damage.
+ If air handlers must be used during construction, filtration media with
+a Minimum Efficiency Reporting Value (MERV) of 8 must be used at
+each return air grill, as determined by ASHRAE 52.2-1999.
+ Replace all filtration media immediately prior to occupancy. Filtration
+media shall have a Minimum Efficiency Reporting Value (MERV)
+of 13, as determined by ASHRAE 52.2-1999 for media installed at the
+end of construction.
+❏ Provide the LEED Letter Template, signed by the general contractor or
+responsible party, declaring that a Constuction IAQ Management Plan
+has been developed and implemented, and listing each air filter used
+during construction and at the end of construction. Include the MERV
+value, manufacturer name and model number.
+AND EITHER
+❏ Provide 18 photographs—six photographs taken on three different occasions
+during construction—along with identification of the SMACNA approach
+featured by each photograph, in order to show consistent adherence
+to the credit requirements
+OR
+❏ Declare the five Design Approaches of SMACNA IAQ Guideline for Occupied
+Buildings under Construction, 1995, Chapter 3, which were used
+during building construction. Include a brief description of some of the
+important design approaches employed.
+Adopt an IAQ management plan to protect the HVAC system during construction,
+control pollutant sources and interrupt contamination pathways.
+Sequence the installation of materials to avoid contamination of absorptive
+materials such as insulation, carpeting, ceiling tile and gypsum wall board.
+
+EQ-3.2
+Prevent indoor air quality problems resulting from the construction/renovation
+process in order to help sustain the comfort and well-being of construction
+workers and building occupants.
+Develop and implement an Indoor Air Quality (IAQ) Management Plan for
+the pre-occupancy phase as follows:
+ After construction ends and prior to occupancy conduct a minimum
+two-week building flush-out with new Minimum Efficiency Reporting
+Value (MERV) 13 filtration media at 100% outside air. After the flushout,
+replace the filtration media with new MERV 13 filtration media,
+except the filters solely processing outside air.
+OR
+ Conduct a baseline indoor air quality testing procedure consistent
+with the United States Environmental Protection Agency’s current Protocol
+for Environmental Requirements, Baseline IAQ and Materials, for the Research
+Triangle Park Campus, Section 01445.
+❏ Provide the LEED Letter Template, signed by the architect, general contractor
+or responsible party, describing the building flush-out procedures
+and dates.
+OR
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, declaring that the referenced standard’s IAQ testing protocol has
+been followed. Include a copy of the testing results.
+Prior to occupancy, perform a two week building flush-out or test the contaminant
+levels in the building.
+
+EQ-4.1
+Reduce the quantity of indoor air contaminants that are odorous, potentially
+irritating and/or harmful to the comfort and well-being of installers and occupants.
+The VOC content of adhesives and sealants used must be less than the current
+VOC content limits of South Coast Air Quality Management District
+(SCAQMD) Rule #1168, AND all sealants used as fillers must meet or exceed
+the requirements of the Bay Area Air Quality Management District Regulation
+8, Rule 51.
+Provide the LEED Letter Template, signed by the architect or responsible
+party, listing the adhesives and sealants used in the building and declaring
+that they meet the noted requirements.
+Specify Low-VOC materials in construction documents. Ensure that VOC limits
+are clearly stated in each section where adhesives and sealants are addressed.
+
+EQ-4.2
+Reduce the quantity of indoor air contaminants that are odorous, potentially
+irritating and/or harmful to the comfort and well-being of installers and occupants.
+VOC emissions from paints and coatings must not exceed the VOC and chemical
+component limits of Green Seal’s Standard GS-11 requirements.
+Provide the LEED Letter Template, signed by the architect or responsible
+party, listing all the interior paints and coatings used in the building that
+are addressed by Green Seal Standard GS-11 and stating that they comply
+with the current VOC and chemical component limits of the standard.
+Specify Low-VOC paints and coatings in construction documents. Ensure that
+VOC limits are clearly stated in each section where paints are addressed.
+1 Point
+
+EQ-4.3
+Reduce the quantity of indoor air contaminants that are odorous, potentially
+irritating and/or harmful to the comfort and well-being of installers and occupants.
+Carpet systems must meet or exceed the requirements of the Carpet and Rug
+Institute’s Green Label Indoor Air Quality Test Program.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, listing all the carpet systems used in the building and stating that
+they comply with the current VOC limits of the Carpet and Rug Institute’s
+Green Label Indoor Air Quality Test Program.
+Specify Low-VOC carpet products and systems in construction documents.
+Ensure that VOC limits are clearly stated where carpet systems are addressed.
+
+EQ-4.4
+Reduce the quantity of indoor air contaminants that are odorous, potentially
+irritating and/or harmful to the comfort and well-being of installers and occupants.
+Composite wood and agrifiber products must contain no added urea-formaldehyde
+resins.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, listing all the composite wood products used in the building and
+stating that they contain no added urea-formaldehyde resins.
+Specify wood and agrifiber products that contain no added urea-formaldehyde
+resins.
+
+EQ-5
+Avoid exposure of building occupants to potentially hazardous chemicals
+that adversely impact air quality.
+Design to minimize pollutant cross-contamination of regularly occupied areas:
+ Employ permanent entryway systems (grills, grates, etc.) to capture
+dirt, particulates, etc. from entering the building at all high volume
+entryways.
+ Where chemical use occurs (including housekeeping areas and copying/
+printing rooms), provide segregated areas with deck to deck partitions
+with separate outside exhaust at a rate of at least 0.50 cubic
+feet per minute per square foot, no air re-circulation and maintaining
+a negative pressure of at least 7 PA (0.03 inches of water gauge).
+ Provide drains plumbed for appropriate disposal of liquid waste in
+spaces where water and chemical concentrate mixing occurs.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, declaring that:
+ Permanent entryway systems (grilles, grates, etc.) to capture dirt, particulates,
+etc. are provided at all high volume entryways.
+ Chemical use areas and copy rooms have been physically separated
+with deck-to-deck partitions; independent exhaust ventilation has been
+installed at 0.50 cfm/square foot and that a negative pressure differential
+of 7 PA has been achieved.
+ In spaces where water and chemical concentrate mixing occurs, drains
+are plumbed for environmentally appropriate disposal of liquid waste.
+Design separate exhaust and plumbing systems for rooms with contaminants
+to achieve physical isolation from the rest of the building. Install permanent
+architectural entryway systems such as grills or grates to prevent occupantborne
+contaminants from entering the building.
+
+EQ-6.1
+Provide a high level of thermal, ventilation and lighting system control by
+individual occupants or specific groups in multi-occupant spaces (i.e. classrooms
+or conference areas) to promote the productivity, comfort and wellbeing
+of building occupants.
+Provide at least an average of one operable window and one lighting control
+zone per 200 square feet for all regularly occupied areas within 15 feet of the
+perimeter wall.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, demonstrating and declaring that for regularly occupied perimeter
+areas of the building a minimum of one operable window and one lighting
+control zone are provided per 200 square feet on average.
+Design the building with occupant controls for airflow, temperature and lighting.
+Strategies to consider include lighting controls, task lighting and operable
+windows.
+
+EQ-6.2
+Provide a high level of thermal, ventilation and lighting system control by
+individual occupants or specific groups in multi-occupant spaces (i.e. classrooms
+or conference areas) to promote the productivity, comfort and wellbeing
+of building occupants.
+Provide controls for each individual for airflow, temperature and lighting for
+at least 50% of the occupants in non-perimeter, regularly occupied areas.
+❏ Provide the LEED Letter Template, signed by the architect or responsible
+party, demonstrating and declaring that controls for individual airflow,
+temperature and lighting are provided for at least 50% of the occupants in
+non-perimeter, regularly occupied areas.
+Design the building with occupant controls for airflow, temperature and lighting.
+Strategies to consider include task lighting and underfloor HVAC systems
+with individual diffusers.
+
+EQ-7.1
+Provide a thermally comfortable environment that supports the productivity
+and well-being of building occupants.
+Comply with ASHRAE Standard 55-1992, Addenda 1995, for thermal comfort
+standards including humidity control within established ranges per climate
+zone. For naturally ventilated buildings, utilize the adaptive comfort temperature
+boundaries, using the 90% acceptability limits as defined in the
+California High Performance Schools (CHPS) Best Practices Manual, Appendix
+C – A Field Based Thermal Comfort Standard for Naturally Ventilated
+Buildings, Figure 2.
+❏ For mechanically ventilated spaces: provide the LEED Letter Template,
+signed by the engineer or responsible party, declaring that the project
+complies with ASHRAE Standard 55-1992, Addenda 1995. Include a table
+that identifies each thermally controlled zone, and that summarizes for
+each zone the temperature and humidity control ranges and the method
+of control used.
+OR
+❏ For naturally ventilated spaces: provide the LEED Letter Template, signed
+by the engineer or responsible party declaring that the project complies
+with the 90% acceptability limits of the adaptive comfort temperature
+boundaries in the California High Performance Schools (CHPS) Best Practices
+Manual Appendix C – A Field Based Thermal Comfort Standard for
+Naturally Ventilated Buildings, Figure 2.
+Establish temperature and humidity comfort ranges and design the building
+envelope and HVAC system to maintain these comfort ranges.
+
+EQ-7.2
+Provide a thermally comfortable environment that supports the productivity
+and well-being of building occupants.
+Comply with ASHRAE Standard 55-1992, Addenda 1995, for thermal comfort
+standards including humidity control within established ranges per climate
+zone. For naturally ventilated buildings, utilize the adaptive comfort temperature
+boundaries, using the 90% acceptability limits as defined in the
+California High Performance Schools (CHPS) Best Practices Manual, Appendix
+C – A Field Based Thermal Comfort Standard for Naturally Ventilated
+Buildings, Figure 2.
+❏ For mechanically ventilated spaces: provide the LEED Letter Template,
+signed by the engineer or responsible party, declaring that the project
+complies with ASHRAE Standard 55-1992, Addenda 1995. Include a table
+that identifies each thermally controlled zone, and that summarizes for
+each zone the temperature and humidity control ranges and the method
+of control used.
+OR
+❏ For naturally ventilated spaces: provide the LEED Letter Template, signed
+by the engineer or responsible party declaring that the project complies
+with the 90% acceptability limits of the adaptive comfort temperature
+boundaries in the California High Performance Schools (CHPS) Best Practices
+Manual Appendix C – A Field Based Thermal Comfort Standard for
+Naturally Ventilated Buildings, Figure 2.
+Establish temperature and humidity comfort ranges and design the building
+envelope and HVAC system to maintain these comfort ranges.
+
+EQ-8.1
+Provide for the building occupants a connection between indoor spaces and
+the outdoors through the introduction of daylight and views into the regularly
+occupied areas of the building.
+Achieve a minimum Daylight Factor of 2% (excluding all direct sunlight penetration)
+in 75% of all space occupied for critical visual tasks. Spaces excluded
+from this requirement include copy rooms, storage areas, mechanical
+plant rooms, laundry and other low occupancy support areas. Other exceptions
+for spaces where tasks would be hindered by the use of daylight will be
+considered on their merits.
+❏ Provide the LEED Letter Template signed by the architect or responsible
+party. Provide area calculations that define the daylight zone and provide
+prediction calculations or daylight simulation.
+Design the building to maximize interior daylighting. Strategies to consider
+include building orientation, shallow floor plates, increased building perimeter,
+exterior and interior permanent shading devices, high performance glazing
+and photo-integrated light sensors. Predict daylighting via calculations or
+model daylighting strategies with a physical or computer model to assess
+footcandle levels and daylight factors achieved.
+
+EQ-8.2
+Provide for the building occupants a connection between indoor spaces and
+the outdoors through the introduction of daylight and views into the regularly
+occupied areas of the building.
+Achieve direct line of sight to vision glazing for building occupants in 90% of
+all regularly occupied spaces. Examples of exceptions include copy rooms,
+storage areas, mechanical, laundry and other low occupancy support areas.
+Other exceptions will be considered on their merits.
+❏ Provide the LEED Letter Template and calculations describing, demonstrating
+and declaring that the building occupants in 90% of regularly
+occupied spaces will have direct lines of site to perimeter glazing. Provide
+drawings highlighting the direct line of sight zones.
+Design the building to maximize view opportunities.
+
+ID-1
+To provide design teams and projects the opportunity to be awarded points
+for exceptional performance above the requirements set by the LEED Green
+Building Rating System and/or innovative performance in Green Building
+categories not specifically addressed by the LEED Green Building Rating System.
+Credit 1.1 (1 point) In writing, identify the intent of the proposed innovation
+credit, the proposed requirement for compliance,
+the proposed submittals to demonstrate compliance,
+and the design approach (strategies) that might be used
+to meet the requirements.
+Credit 1.2 (1 point) Same as Credit 1.1
+Credit 1.3 (1 point) Same as Credit 1.1
+Credit 1.4 (1 point) Same as Credit 1.1
+❏ Provide the proposal(s) within the LEED Letter Template (including intent,
+requirement, submittals and possible strategies) and relevant evidence
+of performance achieved.
+Substantially exceed a LEED performance credit such as energy performance
+or water efficiency. Apply strategies or measures that are not covered by
+LEED such as acoustic performance, education of occupants, community
+development or lifecycle analysis of material choices.
+
+ID-2.1
+To support and encourage the design integration required by a LEED Green
+Building project and to streamline the application and certification process.
+At least one principal participant of the project team that has successfully
+completed the LEED Accredited Professional exam
+❏ Provide the LEED Letter Template stating the LEED Accredited Professional’s
+name, title, company and contact information. Include a copy of this
+person’s LEED Accredited Professional Certificate.
+Attending a LEED Accredited Professional Training Workshop is recommended
+but not required. Study the LEED Reference Guide. Successfully pass the
+LEED accreditation exam.

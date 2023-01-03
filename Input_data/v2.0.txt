@@ -1,0 +1,555 @@
+SS-1
+Avoid development of inappropriate sites and reduce the environmental impact from the location of a building on a site.
+Do not develop buildings on portions of sites that meet any one of the following criteria:
+-Prime farmland as defined by the American Farmland Trust
+-Land whose elevation is lower than 5 feet above the elevation of the 100-year flood as defined by FEMA
+-Land which provides habitat for any species on the Federal or State threatened or endangered list
+-Within 100 feet of any wetland as defined by 40 CFR, Parts 230-233 and Part 22, OR as defined by local or state rule or law, whichever is more stringent
+-Land which prior to acquisition for the project was public
+parkland, unless land of equal or greater value as parkland is
+accepted in trade by the public landowner (Park Authority
+projects are exempt)
+During the site selection process, give preference to those sites that do not include
+sensitive site elements and restricted land types. Select a suitable building location and
+design the building with the minimal footprint to minimize site disruption. Strategies
+include stacking the building program, tuck under parking, and sharing facilities with
+neighbors.
+
+SS-2
+Channel development to urban areas with existing infrastructures, protecting greenfields
+and preserving habitat and natural resources.
+Increase localized density to conform to existing or desired
+density goals by utilizing sites that are located within an existing
+minimum development density of 60,000 square feet per
+acre (2 story downtown development)
+During the site selection process, give preference to urban sites with high development
+densities. Quantify the development density of the project as well as the surrounding
+area.
+
+SS-3
+Rehabilitate damaged sites where development is complicated by real or perceived
+environmental contamination, reducing pressure on undeveloped land.
+Develop on a site classified as a Brownfield and provide
+remediation as required by EPA’s Sustainable Redevelopment
+of Brownfields Program requirements
+During the site selection process, give preference to brownfield sites. Identify tax
+incentives and property cost savings by selecting a brownfield site. Adopt a site
+remediation plan and cleanup the site using remediation strategies such as pump-andtreat,
+bioreactors, land farming, and in-situ remediation.
+
+SS-4
+Reduce pollution and land development impacts from automobile use.
+Locate building within ½ mile of a commuter rail, light rail or
+subway station or ¼ mile of 2 or more bus lines
+Provide suitable means for securing bicycles, with convenient
+changing/shower facilities for use by cyclists, for 5% or more
+of building occupants
+Install alternative-fuel refueling station(s) for 3% of the total
+vehicle parking capacity of the site. Liquid or gaseous fueling
+facilities must be separately ventilated or located outdoors
+Size parking capacity not to exceed minimum local zoning
+requirements AND provide preferred parking for carpools
+or van pools capable of serving 5% of the building occupants,
+OR, add no new parking for rehabilitation projects AND
+provide preferred parking for carpools or van pools capable
+of serving 5% of the building occupants.
+Perform a transportation survey of future building occupants to identify transportation
+needs. Site the building near mass transit and design the building with transportation
+amenities such as bicycle racks and showering/changing facilities, alternative fuel
+refueling stations, and carpool/ van pool programs. Also consider sharing transportation
+facilities such as parking lots and refueling stations with neighbors.
+
+SS-5
+Conserve existing natural areas and restore damaged areas to provide habitat and
+promote biodiversity.
+On greenfield sites, limit site disturbance including earthwork
+and clearing of vegetation to 40 feet beyond the building perimeter,
+5 feet beyond primary roadway curbs, walkways, and
+main utility branch trenches, and 25 feet beyond pervious paving
+areas that require additional staging areas in order to limit
+compaction in the paved area; OR, on previously developed
+sites, restore a minimum of 50% of the remaining open area
+by planting native or adapted vegetation.
+Reduce the development footprint (including building, access
+roads and parking) to exceed the local zoning’s open space
+requirement for the site by 25%.
+Perform a site survey to identify site elements and adopt a master plan for development
+of the project site. Select a suitable building location and design the building
+with the minimal footprint to minimize site disruption. Strategies include stacking the
+building program, tuck under parking, and sharing facilities with neighbors. Establish
+clearly marked construction boundaries to minimize disturbance of existing site and
+restore previously degraded areas to their natural state.
+
+SS-6
+Limit disruption of natural water flows by minimizing stormwater runoff, increasing
+on-site infiltration and reducing contaminants.
+Implement a stormwater management plan that results in:
+No net increase in the rate and quantity of stormwater runoff
+from existing to developed conditions; OR, if existing
+imperviousness is greater than 50%, implement a stormwater
+management plan that results in a 25% decrease in the rate and
+quantity of stormwater runoff.
+Treatment systems designed to remove 80% of the average
+annual post development total suspended solids (TSS), and
+40% of the average annual post development total phosphorous
+(TP), by implementing Best Management Practices (BMPs)
+outlined in EPA’s Guidance Specifying Management Measures
+for Sources of Non-point Pollution in Coastal Waters (EPA
+840-B-92-002 1/93).
+Design the project site to maintain natural stormwater flows by promoting infiltration.
+Specify garden roofs and pervious paving to minimize impervious surfaces.
+Reuse stormwater volumes generated for non-potable uses such as landscape irrigation,
+toilet and urinal flushing, and custodial uses. Install mechanical or natural treatment
+systems such as constructed wetlands, vegetated filter strips, and bioswales to
+treat stormwater volumes leaving the site.
+
+SS-7
+Reduce heat islands (thermal gradient differences between developed and undeveloped
+areas) to minimize impact on microclimate and human and wildlife habitat.
+Provide shade (within 5 years) on at least 30% of non-roof
+impervious surface on the site, including parking lots, walkways,
+plazas, etc., OR, use light-colored/high-albedo materials
+(reflectance of at least 0.3) for 30% of the site’s non-roof
+impervious surfaces, OR place a minimum of 50% of parking
+space underground OR use open-grid pavement system
+(net impervious area of LESS than 50%) for a minimum of
+50% of the parking lot area.
+Use ENERGY STAR Roof-compliant, high-reflectance AND
+high emissivity roofing (initial reflectance of at least 0.65 and
+three-year-aged reflectance of at least 0.5 when tested in accordance
+with ASTM E903 and emissivity of at least 0.9
+when tested in accordance with ASTM 408) for a minimum
+of 75% of the roof surface; OR, install a “green” (vegetated)
+roof for at least 50% of the roof area.
+Shade constructed surfaces on the site with landscape features and minimize the overall
+building footprint. Consider replacing constructed surfaces (i.e., roof, roads, sidewalks,
+etc.) with vegetated surfaces such as garden roofs and open grid paving or
+specify light-colored, high-albedo materials to reduce the heat absorption.
+
+SS-8
+Eliminate light trespass from the building site, improve night sky access, and reduce
+development impact on nocturnal environments.
+Do not exceed Illuminating Engineering Society of North
+America (IESNA) footcandle level requirements as stated in
+the Recommended Practice Manual: Lighting for Exterior Environments,
+AND design interior and exterior lighting such
+that zero direct-beam illumination leaves the building site.
+Adopt site lighting criteria to maintain safe light levels while avoiding off-site lighting
+and night sky pollution. Minimize site lighting where possible and model the site
+lighting using a computer model. Technologies to reduce light pollution include full
+cutoff luminaries, low-reflectance surfaces, and low-angle spotlights.
+
+WE-1
+Limit or eliminate the use of potable water for landscape irrigation.
+Use high efficiency irrigation technology, OR, use captured
+rain or recycled site water, to reduce potable water consumption
+for irrigation by 50% over conventional means.
+Use only captured rain or recycled site water for an additional
+50% reduction (100% total reduction) of potable water for
+site irrigation needs, OR, do not install permanent landscape
+irrigation systems.
+Perform a soil/climate analysis to determine appropriate landscape types and design
+the landscape with indigenous plants to reduce or eliminate irrigation requirements.
+Use high efficiency irrigation systems and consider reuse of stormwater or graywater
+volumes for irrigation.
+
+WE-2
+Reduce the generation of wastewater and potable water demand, while increasing the
+local aquifer recharge.
+Reduce the use of municipally provided potable water for
+building sewage conveyance by a minimum of 50%, OR, treat
+100% of wastewater on site to tertiary standards.
+Estimate the wastewater volumes generated in the building and specify high efficiency
+fixtures and dry fixtures such as composting toilets and waterless urinals to reduce
+these volumes. Consider reusing stormwater or graywater for sewage conveyance or
+on-site wastewater treatment systems (mechanical or natural).
+
+WE-3
+Maximize water efficiency within buildings to reduce the burden on municipal water
+supply and wastewater systems.
+Employ strategies that in aggregate use 20% less water than
+the water use baseline calculated for the building (not including
+irrigation) after meeting Energy Policy Act of 1992 fixture
+performance requirements.
+Exceed the potable water use reduction by an additional 10%
+(30% total efficiency increase).
+Estimate the potable and non-potable water needs for the building. Use high efficiency
+fixtures, dry fixtures such as composting toilets and waterless urinals, and occupant
+sensors to reduce the potable water demand. Consider reuse of stormwater
+and graywater for non-potable applications such as toilet and urinal flushing, mechanical
+systems, and custodial uses.
+
+EA-1
+Achieve increasing levels of energy performance above the prerequisite standard to
+reduce environmental impacts associated with excessive energy use.
+Reduce design energy cost compared to the energy cost budget for regulated energy
+components described in the requirements of ASHRAE/IESNA Standard 90.1-1999,
+as demonstrated by a whole building simulation using the Energy Cost Budget Method
+described in Section 11:
+New Buildings Existing Buildings Points
+20% 10% 2
+30% 20% 4
+40% 30% 6
+50% 40% 8
+60% 50% 10
+Regulated energy components include HVAC systems, building envelope, service hot
+water systems, lighting and other regulated systems as defined by ASHRAE.
+Reduce design energy cost by 20% / 10%.
+Reduce design energy cost by 30% / 20%.
+Reduce design energy cost by 40% / 30%.
+Reduce design energy cost by 50% / 40%.
+Reduce design energy cost by 60% / 50%.
+Design the building envelope and building systems to maximize energy performance.
+Use a computer simulation model to assess the energy performance and identify the
+most cost effective energy efficie
+
+EA-2
+Encourage and recognize increasing levels of self-supply through renewable technologies
+to reduce environmental impacts associated with fossil fuel energy use.
+Supply a net fraction of the building’s total energy use (as expressed as a fraction of
+annual energy cost) through the use of on-site renewable energy systems.
+% Total Energy Load Cost in Renewables Points
+5% 1
+10% 2
+20% 3
+Renewable energy, 5% contribution
+Renewable energy, 10% contribution
+Renewable energy, 20% contribution
+Assess the project for renewable energy potential including solar, wind, geothermal,
+biomass, hydro, and bio-gas strategies. When applying these strategies, take advantage
+of net metering with the local utility.
+
+EA-3
+Verify and ensure that the entire building is designed, constructed, and calibrated to
+operate as intended.
+In addition to the Fundamental Building Commissioning prerequisite,
+implement the following additional commissioning
+tasks:
+1. Conduct a focused review of the design prior to the construction
+documents phase.
+2. Conduct a focused review of the Construction Documents
+when close to completion.
+3. Conduct a selective review of contractor submittals of
+commissioned equipment. (The above three reviews must be
+performed by a firm other than the designer.)
+4. Develop a recommissioning management manual.
+5. Have a contract in place for a near-warranty end or post
+occupancy review.
+Engage the Commissioning Authority early in project design phases. Task the commissioning
+agent to conduct project reviews before and after construction documents
+are complete. The Commissioning Agent must also create a recommissioning manual
+for the building and review the project at near-warranty end.
+
+EA-4
+Reduce ozone depletion and support early compliance with the Montreal Protocol.
+Install base building level HVAC and refrigeration equipment
+and fire suppression systems that do not contain HCFC’s or
+Halon.
+When reusing buildings, inventory existing building systems using refrigerants and fire
+suppression chemicals and replace those that contain HCFCs or halons. For new
+buildings, specify refrigeration and fire suppression systems that use no HCFCs or
+halons.
+
+EA-5
+Provide for the ongoing accountability and optimization of building energy and water
+consumption performance over time.
+Comply with the long term continuous measurement of performance
+as stated in Option B: Methods by Technology of
+the US DOE’s International Performance Measurement and
+Verification Protocol (IPMVP) for the following:
+-Lighting systems and controls
+-Constant and variable motor loads
+-Variable frequency drive (VFD) operation
+-Chiller efficiency at variable loads (kW/ton)
+-Cooling load
+-Air and water economizer and heat recovery cycles
+-Air distribution static pressures and ventilation air volumes
+-Boiler efficiencies
+-Building specific process energy efficiency systems and equipment
+-Indoor water risers and outdoor irrigation systems
+Model the energy and water systems to predict savings. Design the building with
+equipment to measure energy and water performance. Draft a Measurement &
+Verification Plan to apply during building operation that compares predicted savings
+to those actually achieved in the field.
+
+EA-6
+Encourage the development and use of grid-source energy technologies on a net zero
+pollution basis.
+Engage in a two year contract to purchase power generated
+from renewable sources that meet the Center for Resource
+Solutions (CRS) Green-e products certification requirements.
+Estimate the energy needs of the building and investigate opportunities to engage in a
+green power contract with the local utility. Green power is derived from solar, wind,
+geothermal, biomass, or low-impact hydro sources.
+
+MR-1
+Extend the life cycle of existing building stock, conserve resources, retain cultural
+resources, reduce waste, and reduce environmental impacts of new buildings as they
+relate to materials manufacturing and transport.
+Reuse large portions of existing structures during renovation or redevelopment projects:
+Maintain at least 75% of existing building structure and shell
+(exterior skin and framing excluding window assemblies)
+Maintain an additional 25% (100% total) of existing building
+structure and shell (exterior skin and framing excluding window
+assemblies)
+Maintain 100% of existing building structure and shell AND
+50% non-shell (walls, floor coverings, and ceiling systems)
+Consider reuse of existing buildings, including structure, shell, and non-shell elements.
+Remove elements that pose contamination risk to building occupants and upgrade
+outdated components such as windows, mechanical systems, and plumbing fixtures.
+Quantify the extent of building reuse.
+
+MR-2
+Divert construction, demolition, and land clearing debris from landfill disposal. Redirect
+recyclable material back to the manufacturing process.
+Develop and implement a waste management plan, quantifying material diversion by
+weight. (Remember that salvage may include the donation of materials to charitable
+organizations such as Habitat for Humanity.)
+Recycle and/or salvage at least 50% (by weight) of construction,
+demolition, and land clearing waste
+Recycle and/or salvage an additional 25% (75% total by weight)
+of the construction, demolition, and land clearing debris
+Establish goals for landfill diversion and adopt a construction waste management
+plan to achieve these goals. Consider recycling land clearing debris, cardboard, metals,
+brick, concrete, plastic, clean wood, glass, gypsum wallboard, carpet, and insulation.
+Designate a specific area on the construction site for recycling and track recycling
+efforts throughout the construction process. Identify construction haulers and recyclers
+to handle the designated materials.
+
+MR-3
+Extend the life cycle of targeted building materials by reducing environmental impacts
+related to materials manufacturing and transport.
+Specify salvaged or refurbished materials for 5% of building
+materials
+Specify salvaged or refurbished materials for 10% of building
+materials
+Identify opportunities to incorporate salvage materials into the building design and
+research potential material suppliers. Consider salvage materials such as beams and
+posts, flooring, paneling, doors and frames, cabinetry and furniture, brick, and decorative
+items.
+
+MR-4
+Increase demand for building products that have incorporated recycled content materials,
+therefore reducing the impacts resulting from the extraction of new materials.
+Specify a minimum of 25% of building materials that contain
+in aggregate, a minimum weighted average of 20% post-consumer
+recycled content material, OR, a minimum weighted
+average 40% post-industrial recycled content material.
+Specify an additional 25% (50% total) of building materials
+that contain in aggregate, a minimum weighted average of
+20% post-consumer recycled content material, OR, a minimum
+weighted average of 40% post-industrial recycled content
+material.
+Establish a project goal for recycled content materials and identify materials and material
+suppliers that can achieve this goal. During construction, ensure that the specified
+recycled content materials are installed and quantify the total percentage of recycled
+content materials installed.
+
+MR-5
+Increase demand for building products that are manufactured locally, thereby reducing
+the environmental impacts resulting from their transportation and supporting the
+local economy.
+Specify a minimum of 20% of building materials that are
+manufactured* regionally within a radius of 500 miles.
+Of these regionally manufactured materials, specify a minimum
+of 50% that are extracted, harvested, or recovered within
+500 miles.
+* Manufacturing refers to the final assembly of components into the building
+product that is furnished and installed by the tradesmen. For example, if the
+hardware comes from Dallas, Texas, the lumber from Vancouver, British Columbia
+and the joist is assembled in Kent, Washington; then the location of the
+final assembly is Kent, Washington.
+Establish a project goal for locally sourced materials and identify materials and material
+suppliers that can achieve this goal. During construction, ensure that the specified
+local materials are installed and quantify the total percentage of local materials installed.
+
+MR-6
+Reduce the use and depletion of finite raw, and long-cycle renewable materials by
+replacing them with rapidly renewable materials.
+Specify rapidly renewable building materials for 5% of total
+building materials.
+Establish a project goal for rapidly renewable materials and identify materials and
+suppliers that can achieve this goal. Consider materials such as bamboo flooring,
+wool carpet, strawboard, cotton batt insulation, linoleum flooring, poplar OSB, sunflower
+seed board, and wheatgrass cabinetry. During construction, ensure that the
+specified rapidly renewable materials are installed and quantify the total percentage of
+rapidly renewable materials installed.
+
+MR-7
+Encourage environmentally responsible forest management.
+Use a minimum of 50% of wood-based materials certified in
+accordance with the Forest Stewardship Council Guidelines
+for wood building components including but not limited to
+structural framing and general dimensional framing, flooring,
+finishes, furnishings, and non-rented temporary construction
+applications such as bracing, concrete form work and pedestrian
+barriers.
+Establish a project goal for FSC-certified wood products and identify products and
+suppliers that can achieve this goal. During construction, ensure that the FSC-certified
+wood products are installed and quantify the total percentage of FSC-certified wood
+products installed.
+
+EQ-1
+Provide capacity for indoor air quality (IAQ) monitoring to sustain long-term occupant
+health and comfort.
+Install a permanent carbon dioxide (CO2 ) monitoring system
+that provides feedback on space ventilation performance in a
+form that affords operational adjustments, AND specify initial
+operational set point parameters that maintain indoor carbon
+dioxide levels no higher than outdoor levels by more than
+530 parts per million at any time.
+Design the HVAC system with carbon dioxide monitoring sensors and integrate these
+sensors with the building automation system (BAS).
+
+EQ-2
+Provide for the effective delivery and mixing of fresh air to support the health, safety,
+and comfort of building occupants.
+For mechanically ventilated buildings, design ventilation systems
+that result in an air change effectiveness (E) greater than
+or equal to 0.9 as determined by ASHRAE 129-1997. For
+naturally ventilated spaces demonstrate a distribution and laminar
+flow pattern that involves not less than 90% of the room
+or zone area in the direction of air flow for at least 95% of
+hours of occupancy.
+Design the HVAC system and building envelope to optimize air change effectiveness.
+Air change effectiveness can be optimized using a variety of ventilation strategies
+including displacement ventilation, low-velocity ventilation, plug flow ventilation such
+as underfloor or near-floor delivery, and operable windows. Test the air change
+effectiveness of the building after construction.
+
+EQ-3
+Prevent indoor air quality problems resulting from the construction/renovation process,
+to sustain long-term installer and occupant health and comfort.
+Develop and implement an Indoor Air Quality (IAQ) Management Plan for the construction
+and preoccupancy phases of the building as follows:
+During construction meet or exceed the minimum requirements
+of the Sheet Metal and Air Conditioning National Contractors
+Association (SMACNA) IAQ Guideline for Occupied
+Buildings under Construction, 1995, AND protect stored
+on-site or installed absorptive materials from moisture damage,
+AND replace all filtration media immediately prior to
+occupancy. Filtration media shall have a Minimum Efficiency
+Reporting Value (MERV) of 13 as determined by ASHRAE
+52.2-1999.
+Conduct a minimum two-week building flush-out with new
+filtration media at 100% outside air after construction ends
+and prior to occupancy, OR conduct a baseline indoor air
+quality testing procedure consistent with current EPA Protocol
+for Environmental Requirements, Baseline IAQ and Materials,
+for the Research Triangle Park Campus, Section 01445.
+Technologies & Strategies
+Adopt an IAQ management plan to protect the HVAC system during construction,
+control pollutant sources, and interrupt pathways for contamination. Sequence installation
+of materials to avoid contamination of absorptive materials such as insulation,
+carpeting, ceiling tile, and gypsum wallboard. Prior to occupancy, perform a twoweek
+building flushout or test the contaminant levels in the building.
+
+EQ-4
+Reduce the quantity of indoor air contaminants that are odorous or potentially irritating
+to provide installer and occupant health and comfort.
+Meet or exceed VOC limits for adhesives, sealants, paints, composite wood products,
+and carpet systems as follows:
+Adhesives must meet or exceed the VOC limits of South Coast
+Air Quality Management District Rule #1168 by, AND all
+sealants used as a filler must meet or exceed Bay Area Air
+Quality Management District Reg. 8, Rule 51.
+Paints and coatings must meet or exceed the VOC and chemical
+component limits of Green Seal requirements.
+Carpet systems must meet or exceed the Carpet and Rug Institute
+Green Label Indoor Air Quality Test Program.
+Composite wood and agrifiber products must contain no
+added urea-formaldehyde resins.
+Specify low-VOC materials in construction documents. Ensure that VOC limits are
+clearly stated in each section where adhesives, sealants, paints, coatings, carpet systems,
+and composite woods are addressed.
+
+EQ-5
+Avoid exposure of building occupants to potentially hazardous chemicals that adversely
+impact air quality.
+Design to minimize cross-contamination of regularly occupied
+occupancy areas by chemical pollutants: Employ permanent
+entry way systems (grills, grates, etc.) to capture dirt, particulates,
+etc. from entering the building at all high volume entry
+ways, AND provide areas with structural deck to deck
+partitions with separate outside exhausting, no air recirculation
+and negative pressure where chemical use occurs (including
+housekeeping areas and copying/print rooms), AND provide
+drains plumbed for appropriate disposal of liquid waste in
+spaces where water and chemical concentrate mixing occurs.
+Design separate exhaust and plumbing systems for rooms with contaminants to achieve
+physical isolation from the rest of the building. Install permanent architectural entryway
+systems such as grills or grates to prevent occupant-borne contaminants from entering
+the building.
+
+EQ-6
+Provide a high level of individual occupant control of thermal, ventilation, and lighting
+systems to support optimum health, productivity, and comfort conditions.
+Provide a minimum of one operable window and one lighting
+control zone per 200 SF for all occupied areas within 15
+feet of the perimeter wall.
+Provide controls for each individual for airflow, temperature,
+and lighting for 50% of the non-perimeter, regularly occupied
+areas.
+Design the building with occupant controls for airflow, temperature, and lighting.
+Strategies to consider include task lighting, operable windows, and underfloor HVAC
+systems with individual diffusers.
+
+EQ-7
+Provide for a thermally comfortable environment that supports the productive and
+healthy performance of the building occupants.
+Comply with ASHRAE Standard 55-1992, Addenda 1995 for
+thermal comfort standards including humidity control within
+established ranges per climate zone.
+Install a permanent temperature and humidity monitoring system
+configured to provide operators control over thermal
+comfort performance and effectiveness of humidification and/
+or dehumidification systems in the building.
+Establish temperature and humidity comfort ranges and design the building envelope
+and HVAC system to maintain these comfort ranges. Install and maintain a temperature
+and humidity monitoring system in the building to automatically adjust building
+conditions as appropriate.
+
+EQ-8
+Provide a connection between indoor spaces and outdoor environments through the
+introduction of sunlight and views into the occupied areas of the building.
+Achieve a minimum Daylight Factor of 2% (excluding all direct
+sunlight penetration) in 75% of all space occupied for
+critical visual tasks, not including copy rooms, storage areas,
+mechanical, laundry, and other low occupancy support areas.
+Exceptions include those spaces where tasks would be hindered
+by the use of daylight or where accomplishing the specific
+tasks within a space would be enhanced by the direct
+penetration of sunlight.
+Direct line of sight to vision glazing from 90% of all regularly
+occupied spaces, not including copy rooms, storage areas, mechanical,
+laundry, and other low occupancy support areas.
+Design the building to maximize daylighting and view opportunities. Strategies to
+consider include building orientation, shallow floor plates, increased building perimeter,
+exterior and interior shading devices, high performance glazing, and photo-integrated
+light sensors. Model daylighting strategies with a physical or computer model
+to assess footcandle levels and daylight factors achieved.
+
+ID-1
+To provide design teams and projects the opportunity to be awarded points for
+exceptional performance above requirements set by the LEED Green Building Rating
+SystemTM and/or innovative performance in Green Building categories not specifically
+addressed by the LEED Green Building Rating SystemTM.
+In writing, using the LEEDTM Credit Equivalence process,
+identify the intent of the proposed innovation credit, the proposed
+requirement for compliance, the proposed submittals
+to demonstrate compliance, and the design approach
+used to meet the required elements.
+Substantially exceed a LEEDTM performance credit such as energy performance or
+water efficiency. Apply strategies or measures that are not covered by LEEDTM such
+as acoustic performance, education of occupants, community development, or lifecycle
+analysis of material choices.
+
+ID-2
+To support and encourage the design integration required by a LEEDTM Green Building
+project and to streamline the application and certification process.
+Requirement
+At least one principal participant of the project team that has
+successfully completed the LEEDTM Accredited Professional
+exam.
+Attend a LEEDTM Accredited Professional Training Workshop and successfully pass
+the LEEDTM accreditation exam.
